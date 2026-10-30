@@ -4,23 +4,53 @@
   "tier": "Core",
   "doi": "10.5465/amr.2023.0156",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: SMU repository copy behind Cloudflare bot check (not bypassed)",
   "checked": "2026-10-30"
  },
  "O15": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Core",
   "doi": "10.5465/amr.2019.0178",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://wrap.warwick.ac.uk/134220/ (author accepted manuscript, AMR)",
+  "limitations_discussed": "no",
+  "limitations_evidence": "No limitations section; Discussion only offers future research (positive/negative data network effects, competitive advantage)",
+  "sample": "- (conceptual; propositions 1a-4b)",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "Full text confirms abstract coding: outcome perceived user value (OTHER), no DC framing, competitive advantage only named as future research.",
   "checked": "2026-10-30"
  },
  "R088": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Core",
   "doi": "10.70917/ijcisim-2026-2978",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://cspub-ijcisim.org/index.php/ijcisim/article/download/2978/2354 (published version)",
+  "limitations_discussed": "no",
+  "limitations_evidence": "No limitations section; only Section 6 'Future Research Directions' (p. 658)",
+  "sample": "- (conceptual; six propositions)",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "Z added: platform ecosystem orchestration as capacity to 'organize and mobilize relationships' to co-create value (pp. 655-656). Outcome kept CA: 'Dynamic Competitive Positioning' is named the primary strategic output (Sec. 3.4); SCA only appears as a downstream proposition (P5). Sections 3.2 and 3.3 repeat the same text.",
   "checked": "2026-10-30"
  },
  "R111": {
@@ -28,7 +58,7 @@
   "tier": "Core",
   "doi": "10.46970/2026.32.2.01",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R155": {
@@ -44,7 +74,7 @@
   "tier": "Core",
   "doi": "10.1016/j.sbr.2026.100156",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R186": {
@@ -52,7 +82,7 @@
   "tier": "Core",
   "doi": "10.1016/j.jjimei.2024.100285",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA copy: sciencedirect.com returns 403 bot check; DOAJ 403",
   "checked": "2026-10-30"
  },
  "R199": {
@@ -60,7 +90,7 @@
   "tier": "Core",
   "doi": "10.1109/TEM.2025.3550400",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R219": {
@@ -68,7 +98,7 @@
   "tier": "Core",
   "doi": "10.1057/s41272-025-00554-5",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R241": {
@@ -76,23 +106,53 @@
   "tier": "Core",
   "doi": "10.1108/IJLM-01-2024-0046",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R242": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Core",
   "doi": "10.21511/im.20(3).2024.14",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://www.businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/20585/IM_2024_03_Awad.pdf (published version, CC BY 4.0)",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Discussion, p. 179: 'reliance on self-reported data and the focus on a single national context'",
+  "sample": "260 e-retail store owners, managers and marketers (300 distributed), Egypt",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "Full text confirms abstract coding. Direct AI->marketing innovation beta=.49 and partial mediation via organisational culture (Table 15). Culture is not a dynamic capability under the codebook, so P2 stays na. No theory named (q2=0).",
   "checked": "2026-10-30"
  },
  "R269": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Core",
   "doi": "10.1108/IJLM-02-2021-0094",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://researchonline.ljmu.ac.uk/id/eprint/15291/ (author accepted manuscript)",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 7.3 'Limitations and scope for future research' (AAM p. 32): small number of respondents, region-specific",
+  "sample": "35 supply chain/AI experts from the e-commerce supply chain, semi-structured interviews Oct-Nov 2020",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "DC lens explicit (Sec. 4). T added: AI-enabled resilience requires 'reconfiguration of resources' framed as dynamic capability (AAM p. 26; P2/P5). P1 stays na (outcome RES).",
   "checked": "2026-10-30"
  },
  "O01": {
@@ -100,7 +160,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.im.2021.103434",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: OA copy on sciencedirect.com (403) / NTNU repository page without direct PDF",
   "checked": "2026-10-30"
  },
  "O02": {
@@ -108,7 +168,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.indmarman.2021.08.003",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: OA copy on sciencedirect.com (403) / NTNU repository page without direct PDF",
   "checked": "2026-10-30"
  },
  "O03": {
@@ -116,7 +176,7 @@
   "tier": "Supporting",
   "doi": "10.1002/smj.3387",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Wiley/ZORA/CBS copies return 403 or HTML only",
   "checked": "2026-10-30"
  },
  "O04": {
@@ -124,7 +184,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.ijinfomgt.2022.102544",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "O05": {
@@ -132,7 +192,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.indmarman.2021.07.013",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: repository handle does not resolve",
   "checked": "2026-10-30"
  },
  "O06": {
@@ -140,7 +200,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.ijinfomgt.2025.102981",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "O07": {
@@ -148,7 +208,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.jbusres.2026.116413",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "O09": {
@@ -156,7 +216,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.jbusres.2021.05.009",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier 403; Osuva repository behind bot check",
   "checked": "2026-10-30"
  },
  "O10": {
@@ -164,7 +224,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.indmarman.2022.08.017",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Manchester repository PDF 403",
   "checked": "2026-10-30"
  },
  "O11": {
@@ -172,7 +232,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.technovation.2026.103730",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "O12": {
@@ -180,7 +240,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.techfore.2026.124546",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "O13": {
@@ -188,7 +248,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.ijinfomgt.2024.102796",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier 403; Melbourne repository page without direct PDF",
   "checked": "2026-10-30"
  },
  "O16": {
@@ -196,7 +256,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.bushor.2024.05.003",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R001": {
@@ -204,7 +264,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.sbr.2026.100166",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R004": {
@@ -212,7 +272,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.indmarman.2025.05.007",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R006": {
@@ -220,7 +280,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.eij.2026.101046",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "R007": {
@@ -228,7 +288,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.sbr.2026.100158",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R008": {
@@ -236,7 +296,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.sbr.2026.100165",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R010": {
@@ -244,7 +304,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.frl.2026.110199",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R011": {
@@ -252,7 +312,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.sbr.2026.100297",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R017": {
@@ -260,7 +320,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.jbusres.2022.113609",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R018": {
@@ -268,7 +328,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.ijinfomgt.2026.103057",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R022": {
@@ -276,7 +336,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.jbusres.2025.115633",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "R025": {
@@ -284,7 +344,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.chbr.2026.101349",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "R026": {
@@ -292,7 +352,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.sbr.2026.100240",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R028": {
@@ -300,7 +360,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.jengtecman.2024.101851",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R031": {
@@ -308,7 +368,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.jik.2026.101058",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "R032": {
@@ -316,7 +376,7 @@
   "tier": "Supporting",
   "doi": "10.1108/ECAM-01-2025-0051",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R036": {
@@ -324,7 +384,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.sbr.2026.100109",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R037": {
@@ -332,7 +392,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.teler.2026.100342",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "R040": {
@@ -340,7 +400,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.indmarman.2026.01.006",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R043": {
@@ -348,7 +408,7 @@
   "tier": "Supporting",
   "doi": "10.1108/EJIM-03-2025-0397",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R044": {
@@ -356,7 +416,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.techfore.2025.124460",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R050": {
@@ -364,7 +424,7 @@
   "tier": "Supporting",
   "doi": "10.1080/1528008x.2026.2711976",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R056": {
@@ -372,7 +432,7 @@
   "tier": "Supporting",
   "doi": "10.1108/BPMJ-11-2024-1045",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R057": {
@@ -380,7 +440,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.ijinfomgt.2024.102781",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier 403; Osuva repository behind bot check",
   "checked": "2026-10-30"
  },
  "R069": {
@@ -388,7 +448,7 @@
   "tier": "Supporting",
   "doi": "10.3390/systems14050554",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: MDPI 403 bot check; DOAJ 403",
   "checked": "2026-10-30"
  },
  "R075": {
@@ -396,15 +456,30 @@
   "tier": "Supporting",
   "doi": "10.5038/2640-6489.11.1.1358",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: USF Digital Commons 403",
   "checked": "2026-10-30"
  },
  "R081": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Supporting",
   "doi": "10.1108/IMR-10-2024-0426",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://eprints.lancs.ac.uk/id/eprint/232040/ (author accepted manuscript)",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 8 'Limitations and Research Agenda' (AAM p. 22): cross-sectional design, Delhi NCR only",
+  "sample": "377 export managers, Delhi NCR, India",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "Full text confirms abstract coding. AIC->exploitation .514, ->exploration .651; effect on export performance indirect via ambidexterity and IMC. H5 (exploitation->EP) and moderations H9a/H10a not supported; codes unaffected.",
   "checked": "2026-10-30"
  },
  "R083": {
@@ -420,7 +495,7 @@
   "tier": "Supporting",
   "doi": "10.1080/09537325.2025.2509233",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R087": {
@@ -428,15 +503,30 @@
   "tier": "Supporting",
   "doi": "10.5465/amr.2020.0205",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R093": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Supporting",
   "doi": "10.33168/JLISS.2026.1010",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://doi.org/10.33168/JLISS.2026.1010 (published version, open access)",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Discussion, p. 215: five limitations (cross-sectional, single country, single respondent, parsimonious model, no sustainability outcome)",
+  "sample": "248 supply chain, operations, risk and digital transformation professionals, energy sector, Jordan",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "Z and T added: AI strengthens sensing, seizing (decision support, rapid resource reallocation) and reconfiguring (real-time optimisation) (p. 204; Discussion p. 213). Direct effect small (beta=.102).",
   "checked": "2026-10-30"
  },
  "R096": {
@@ -452,15 +542,30 @@
   "tier": "Supporting",
   "doi": "10.3390/buildings16163241",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: MDPI 403 bot check",
   "checked": "2026-10-30"
  },
  "R102": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Supporting",
   "doi": "10.1016/j.ijpe.2019.107599",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://researchonline.ljmu.ac.uk/id/eprint/11948/ (author accepted manuscript)",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 5.3 'Limitations and further research directions' (AAM p. 21): generalisability, cross-sectional design",
+  "sample": "256 manufacturing firms, India (NASSCOM/FICCI)",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "BDA-AI->OP beta=.52 (Table 4). T added: BDA-AI insights 'create opportunities for organisations to reconfigure their resources' (AAM p. 10, H3). q5 0->1: PLS-SEM with bootstrapping, reliability/validity tests, endogeneity check (NLBCDR).",
   "checked": "2026-10-30"
  },
  "R117": {
@@ -476,7 +581,7 @@
   "tier": "Supporting",
   "doi": "10.33141/po.2025.03.04",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R123": {
@@ -484,15 +589,30 @@
   "tier": "Supporting",
   "doi": "10.1108/JBIM-09-2024-0706",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R129": {
-  "accessed": false,
+  "accessed": true,
   "tier": "Supporting",
   "doi": "10.1287/stsc.2024.0190",
-  "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "source": "https://arxiv.org/pdf/2408.08811 (preprint v1, 16 Aug 2024; may differ from the Strategy Science version)",
+  "limitations_discussed": "no",
+  "limitations_evidence": "No limitations section for the empirical studies; only a robustness note on writing quality (p. 13) and limits of AI itself (Sec. 5.2)",
+  "sample": "Study 1: 10 accelerator plans vs. LLM versions, 250 investor evaluators (pre-registered RCT); Study 2: 138 competition plans, 541 judge evaluations",
+  "outcome": "OTHER",
+  "p1": "c",
+  "p2": "na",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "notes": "P1 c confirmed: effect on firm performance 'depends on competitive dynamics' (Sec. 5.1). q4 0->1 (samples fully described), q5 0->1 (pre-registered experiment, regressions with robust SEs, ICC).",
   "checked": "2026-10-30"
  },
  "R132": {
@@ -500,7 +620,7 @@
   "tier": "Supporting",
   "doi": "10.1142/S1363919625500173",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R133": {
@@ -516,7 +636,7 @@
   "tier": "Supporting",
   "doi": "10.21608/jsec.2024.382928",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: EKB server reset the connection",
   "checked": "2026-10-30"
  },
  "R137": {
@@ -524,7 +644,7 @@
   "tier": "Supporting",
   "doi": "10.1108/JMD-05-2024-0171",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R142": {
@@ -532,7 +652,7 @@
   "tier": "Supporting",
   "doi": "10.1080/0965254x.2025.2605721",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R148": {
@@ -540,7 +660,7 @@
   "tier": "Supporting",
   "doi": "10.1007/s13162-025-00323-y",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R149": {
@@ -548,7 +668,7 @@
   "tier": "Supporting",
   "doi": "10.1016/j.actpsy.2026.107351",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Elsevier OA: sciencedirect.com 403",
   "checked": "2026-10-30"
  },
  "R156": {
@@ -556,7 +676,7 @@
   "tier": "Supporting",
   "doi": "10.1186/s43093-025-00533-7",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: SpringerOpen returned HTML, no PDF",
   "checked": "2026-10-30"
  },
  "R157": {
@@ -564,7 +684,7 @@
   "tier": "Supporting",
   "doi": "10.1007/s40171-023-00367-8",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R161": {
@@ -580,7 +700,7 @@
   "tier": "Supporting",
   "doi": "10.1108/IJIS-02-2025-0051",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: SSRN 403",
   "checked": "2026-10-30"
  },
  "R170": {
@@ -588,7 +708,7 @@
   "tier": "Supporting",
   "doi": "10.1111/ijcs.70002",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Wiley 403",
   "checked": "2026-10-30"
  },
  "R173": {
@@ -596,7 +716,7 @@
   "tier": "Supporting",
   "doi": "10.1111/emre.70042",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R174": {
@@ -604,7 +724,7 @@
   "tier": "Supporting",
   "doi": "10.1108/JHTI-01-2023-0017",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R179": {
@@ -612,7 +732,7 @@
   "tier": "Supporting",
   "doi": "10.1111/jpim.12807",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Open-access copy listed by Unpaywall but not retrievable: Wiley 403; Osuva repository behind bot check",
   "checked": "2026-10-30"
  },
  "R180": {
@@ -620,7 +740,7 @@
   "tier": "Supporting",
   "doi": "10.1080/08874417.2024.2423190",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R181": {
@@ -628,7 +748,7 @@
   "tier": "Supporting",
   "doi": "10.1142/S136391962250030X",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  },
  "R183": {
@@ -636,7 +756,7 @@
   "tier": "Supporting",
   "doi": "10.1108/BPMJ-10-2019-0411",
   "source": "",
-  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "reason": "Not open access (Unpaywall/OpenAlex); publisher site paywalled/bot-checked; no PDF in fulltexts/",
   "checked": "2026-10-30"
  }
 }

@@ -46,5 +46,5 @@ for i in rows:
     L.append("%s & \\textcite[%s]{%s} & %s & %s & %s & %d & %s & %s \\\\" % (i + ("*" if f["evidence"] == "Full text" else ""), k["page"], k["key"], DL[f["design"]],
              esc(ex[i][4]), OL[f["outcome"]], f["q16"], Q7[f["q7"]], "yes" if inc[i][11] == "yes" else "no"))
 L.append("\\end{longtable}}")
-open("../thesis/Appendices/AppendixB.tex", "w", encoding="utf-8").write("\n".join(L) + "\n")
+open("../thesis/Appendices/AppendixB.tex", "w", encoding="utf-8", newline="\r\n").write("\n".join(L) + "\n")
 print(len(rows), sum(1 for x in L if "\\textcite[" in x))

@@ -1,0 +1,642 @@
+{
+ "O14": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.5465/amr.2023.0156",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O15": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.5465/amr.2019.0178",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R088": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.70917/ijcisim-2026-2978",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R111": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.46970/2026.32.2.01",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R155": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "-",
+  "source": "",
+  "reason": "No DOI; no PDF in fulltexts/",
+  "checked": "2026-10-30"
+ },
+ "R184": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.1016/j.sbr.2026.100156",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R186": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.1016/j.jjimei.2024.100285",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R199": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.1109/TEM.2025.3550400",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R219": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.1057/s41272-025-00554-5",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R241": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.1108/IJLM-01-2024-0046",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R242": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.21511/im.20(3).2024.14",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R269": {
+  "accessed": false,
+  "tier": "Core",
+  "doi": "10.1108/IJLM-02-2021-0094",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O01": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.im.2021.103434",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O02": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.indmarman.2021.08.003",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O03": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1002/smj.3387",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O04": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.ijinfomgt.2022.102544",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O05": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.indmarman.2021.07.013",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O06": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.ijinfomgt.2025.102981",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O07": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.jbusres.2026.116413",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O09": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.jbusres.2021.05.009",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O10": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.indmarman.2022.08.017",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O11": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.technovation.2026.103730",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O12": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.techfore.2026.124546",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O13": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.ijinfomgt.2024.102796",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "O16": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.bushor.2024.05.003",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R001": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.sbr.2026.100166",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R004": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.indmarman.2025.05.007",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R006": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.eij.2026.101046",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R007": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.sbr.2026.100158",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R008": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.sbr.2026.100165",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R010": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.frl.2026.110199",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R011": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.sbr.2026.100297",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R017": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.jbusres.2022.113609",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R018": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.ijinfomgt.2026.103057",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R022": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.jbusres.2025.115633",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R025": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.chbr.2026.101349",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R026": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.sbr.2026.100240",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R028": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.jengtecman.2024.101851",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R031": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.jik.2026.101058",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R032": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/ECAM-01-2025-0051",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R036": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.sbr.2026.100109",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R037": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.teler.2026.100342",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R040": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.indmarman.2026.01.006",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R043": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/EJIM-03-2025-0397",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R044": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.techfore.2025.124460",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R050": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1080/1528008x.2026.2711976",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R056": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/BPMJ-11-2024-1045",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R057": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.ijinfomgt.2024.102781",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R069": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.3390/systems14050554",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R075": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.5038/2640-6489.11.1.1358",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R081": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/IMR-10-2024-0426",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R083": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "-",
+  "source": "",
+  "reason": "No DOI; no PDF in fulltexts/",
+  "checked": "2026-10-30"
+ },
+ "R085": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1080/09537325.2025.2509233",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R087": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.5465/amr.2020.0205",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R093": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.33168/JLISS.2026.1010",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R096": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "-",
+  "source": "",
+  "reason": "No DOI; no PDF in fulltexts/",
+  "checked": "2026-10-30"
+ },
+ "R098": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.3390/buildings16163241",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R102": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.ijpe.2019.107599",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R117": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "-",
+  "source": "",
+  "reason": "No DOI; no PDF in fulltexts/",
+  "checked": "2026-10-30"
+ },
+ "R120": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.33141/po.2025.03.04",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R123": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/JBIM-09-2024-0706",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R129": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1287/stsc.2024.0190",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R132": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1142/S1363919625500173",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R133": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "-",
+  "source": "",
+  "reason": "No DOI; no PDF in fulltexts/",
+  "checked": "2026-10-30"
+ },
+ "R135": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.21608/jsec.2024.382928",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R137": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/JMD-05-2024-0171",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R142": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1080/0965254x.2025.2605721",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R148": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1007/s13162-025-00323-y",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R149": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1016/j.actpsy.2026.107351",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R156": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1186/s43093-025-00533-7",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R157": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1007/s40171-023-00367-8",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R161": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "-",
+  "source": "",
+  "reason": "No DOI; no PDF in fulltexts/",
+  "checked": "2026-10-30"
+ },
+ "R168": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/IJIS-02-2025-0051",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R170": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1111/ijcs.70002",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R173": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1111/emre.70042",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R174": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/JHTI-01-2023-0017",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R179": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1111/jpim.12807",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R180": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1080/08874417.2024.2423190",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R181": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1142/S136391962250030X",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ },
+ "R183": {
+  "accessed": false,
+  "tier": "Supporting",
+  "doi": "10.1108/BPMJ-10-2019-0411",
+  "source": "",
+  "reason": "No PDF in fulltexts/; doi.org and publisher hosts blocked by the session network policy (not attempted further)",
+  "checked": "2026-10-30"
+ }
+}

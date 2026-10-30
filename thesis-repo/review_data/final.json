@@ -1,0 +1,4024 @@
+{
+ "R001": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "SCA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R003": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "SCA",
+  "p1": "0",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "dynamism"
+  ],
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://ojs.upr.si/index.php/fm/article/view/226/100 (redirects to https://www.hippocampus.si/ISSN/1854-6935/24.33-62.pdf)",
+  "ft_note": "No Limitations section; Conclusion only offers future research: \"In future research, it is recommended that studies should examine the factors...\"",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "na",
+    "+"
+   ]
+  },
+  "note": ""
+ },
+ "R004": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R006": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "platform",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "design": [
+    "Qualitative/case",
+    "Mixed"
+   ]
+  },
+  "note": ""
+ },
+ "R007": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "resources"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ],
+   "s": [
+    true,
+    false
+   ],
+   "z": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R008": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {},
+  "note": ""
+ },
+ "R010": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "data_infra",
+   "resources"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "q2": [
+    1,
+    0
+   ],
+   "q4": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R011": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "FP",
+  "p1": "0",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "z": [
+    false,
+    true
+   ],
+   "q2": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R017": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "design": [
+    "Survey",
+    "Mixed"
+   ],
+   "p1": [
+    "+",
+    "na"
+   ],
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R018": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "FP",
+  "p1": "0",
+  "p2": "+",
+  "s": true,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "resources"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R022": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "outcome": [
+    "FP",
+    "INNOV"
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R025": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "0",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "+",
+    "0"
+   ],
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R026": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "SCA",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "dynamism",
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ],
+   "q3": [
+    0,
+    1
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R028": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "BMI",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R030": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.aasmr.org/liss/Vol.13/No.7/Vol.13.No.7.05.pdf",
+  "ft_note": "Discussion end: \"This research has a few limitations. First, it uses a cross-sectional survey to approve the proposed research model.\"",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "s": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R031": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "BMI",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R032": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    true,
+    false
+   ],
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R036": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R037": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 0,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "design": [
+    "Panel/archival",
+    "Survey"
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R040": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "resources"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "outcome": [
+    "FP",
+    "INNOV"
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R041": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "resources",
+   "data_infra"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://al-kindipublisher.com/index.php/jbms/article/download/12533/11362",
+  "ft_note": "Section 6 \"Limitations and Avenues for Future Research\": \"this study relies on cross-sectional survey data\"",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    true,
+    false
+   ]
+  },
+  "note": "Full text: 432 usable responses (abstract states 350)"
+ },
+ "R043": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics",
+   "data_infra",
+   "platform"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p1": [
+    "+",
+    "na"
+   ],
+   "s": [
+    true,
+    false
+   ],
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R044": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "SCA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "resources",
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "q4": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R048": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "resources"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.mdpi.com/2071-1050/18/9/4320/htm",
+  "ft_note": "Section 6.2 'Limitations and Future Research Perspectives'",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "outcome": [
+    "RES",
+    "INNOV"
+   ],
+   "p1": [
+    "na",
+    "+"
+   ],
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R050": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "0",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {},
+  "note": ""
+ },
+ "R053": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://journals.sagepub.com/doi/full/10.1177/21582440261472113",
+  "ft_note": "Section 'Limitations' (cross-sectional survey of Vietnamese SMEs)",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R056": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "BMI",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "design": [
+    "Survey",
+    "Mixed"
+   ],
+   "s": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R057": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "OTHER",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "resources",
+   "integration",
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "p1": [
+    "na",
+    "+"
+   ],
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R059": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "SCA",
+  "p1": "0",
+  "p2": "c",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.nature.com/articles/s41599-026-06851-7",
+  "ft_note": "Section \"Limitations and future research\": \"This study has several limitations that warrant further investigation.\"",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p1": [
+    "na",
+    "0"
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": "Full text: AI capability tested as moderator; main effect on sustainable competitive performance non-significant"
+ },
+ "R064": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://journals.sagepub.com/doi/full/10.1177/02683962251392284",
+  "ft_note": "Section 'Limitations and directions for future research' (B2B firms in China only)",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R068": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bsd2.70327",
+  "ft_note": "Section 5.3 'Limitations and Avenues for Further Research'",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "s": [
+    true,
+    false
+   ],
+   "t": [
+    true,
+    false
+   ],
+   "q4": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R069": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R075": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "resources",
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "outcome": [
+    "FP",
+    "CA"
+   ]
+  },
+  "note": ""
+ },
+ "R077": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "SCA",
+  "p1": "-",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "resources",
+   "trust_ethics"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://jsbs.scholasticahq.com/article/158957.pdf",
+  "ft_note": "Conclusion: \"This research has several limitations, including its conceptual nature. The four-stage model we present is theoretical and not empirically tested.\"",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R079": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.mdpi.com/2071-1050/18/3/1157/htm",
+  "ft_note": "Section 5.4 'Limitations and Future Research Directions'",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R081": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R083": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "BMI",
+  "p1": "na",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ]
+  },
+  "note": ""
+ },
+ "R085": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 0,
+  "q4": 0,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "dynamism",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 2,
+  "band": "low",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "q2": [
+    0,
+    1
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R086": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "integration",
+   "trust_ethics"
+  ],
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://al-kindipublisher.com/index.php/jbms/article/download/13217/11892",
+  "ft_note": "The abstract says limitations are discussed, but there is no limitations section. The Conclusion only says \"Future empirical studies are needed to verify the proposed relationships\".",
+  "q16": 3,
+  "band": "low",
+  "changed": {
+   "p1": [
+    "na",
+    "+"
+   ],
+   "q2": [
+    0,
+    1
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": "Full text: reported results are simulated values; no empirical data"
+ },
+ "R087": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "CA",
+  "p1": "c",
+  "p2": "c",
+  "s": true,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "imitability"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "+",
+    "c"
+   ],
+   "z": [
+    true,
+    false
+   ],
+   "t": [
+    true,
+    false
+   ],
+   "q2": [
+    1,
+    0
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R088": {
+  "tier": "Core",
+  "design": "Conceptual",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "platform"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "z": [
+    true,
+    false
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q4": [
+    0,
+    1
+   ],
+   "q5": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R091": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "resources"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.mdpi.com/2076-3387/16/7/310/htm",
+  "ft_note": "Section 6.2 'Limitations' (cross-sectional design)",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R093": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "data_infra"
+  ],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R096": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p1": [
+    "+",
+    "na"
+   ],
+   "z": [
+    true,
+    false
+   ],
+   "t": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R098": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "dynamism",
+   "data_infra",
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R102": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "na",
+    "+"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R103": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 0,
+  "p3": [
+   "integration",
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://journal.lu.lv/JISIB/article/download/3105/2758",
+  "ft_note": "Section 3.8 \"Methodological Limitations\": \"survey relies on self-reported data, which may introduce response bias\"",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "z": [
+    false,
+    true
+   ],
+   "q2": [
+    0,
+    1
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R108": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.mdpi.com/2305-6290/10/1/5/htm",
+  "ft_note": "Section 6 'Limitations and Avenues for Future Research'",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R110": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "integration",
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.tandfonline.com/doi/full/10.1080/13675567.2025.2573664",
+  "ft_note": "Section 5.4 'Research limitations and future research directions'",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "t": [
+    true,
+    false
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R111": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {},
+  "note": ""
+ },
+ "R114": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://onlinelibrary.wiley.com/doi/full/10.1155/hbe2/1701203",
+  "ft_note": "Section 5.3 'Limitations and Directions for Future Research'",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "na",
+    "+"
+   ]
+  },
+  "note": ""
+ },
+ "R117": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "INNOV",
+  "p1": "c",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "integration",
+   "trust_ethics",
+   "dynamism",
+   "imitability"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "z": [
+    false,
+    true
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R119": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 0,
+  "p3": [
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://link.springer.com/article/10.1007/s43621-026-03298-3",
+  "ft_note": "Section 6.3 \"Limitations and future directions\"",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R120": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "0",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R122": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics",
+   "cognition",
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://link.springer.com/article/10.1007/s44163-026-01288-y",
+  "ft_note": "\"Several limitations should be acknowledged.\" (end of discussion/conclusion section)",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R123": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "outcome": [
+    "FP",
+    "INNOV"
+   ],
+   "p2": [
+    "na",
+    "+"
+   ],
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R129": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "OTHER",
+  "p1": "c",
+  "p2": "na",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "imitability",
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "design": [
+    "Conceptual",
+    "Mixed"
+   ],
+   "p2": [
+    "+",
+    "na"
+   ],
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R131": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.mdpi.com/2079-8954/13/6/480/htm",
+  "ft_note": "Section 6.3 'Limitations and Future Study Directions'",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ],
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R132": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R135": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 0,
+  "p3": [],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "q3": [
+    0,
+    1
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R137": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "cognition",
+   "resources",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R142": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "z": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R148": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "CA",
+  "p1": "-",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics"
+  ],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "q2": [
+    1,
+    0
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R149": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "SCA",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "data_infra",
+   "trust_ethics",
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "outcome": [
+    "CA",
+    "SCA"
+   ],
+   "p1": [
+    "c",
+    "+"
+   ],
+   "t": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R151": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 0,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "integration",
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://link.springer.com/article/10.1007/s10796-022-10261-w",
+  "ft_note": "6.3 Limitations and Future Scope of Research: \"yet it suffers from limitations.\"",
+  "q16": 3,
+  "band": "low",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ],
+   "z": [
+    true,
+    false
+   ],
+   "t": [
+    true,
+    false
+   ],
+   "q3": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R155": {
+  "tier": "Core",
+  "design": "Conceptual",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "na",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 3,
+  "band": "low",
+  "changed": {
+   "p1": [
+    "+",
+    "na"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q3": [
+    0,
+    1
+   ],
+   "q4": [
+    0,
+    1
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R156": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "outcome": [
+    "OTHER",
+    "FP"
+   ],
+   "p2": [
+    "na",
+    "+"
+   ],
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R157": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "RES",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "na",
+    "+"
+   ]
+  },
+  "note": ""
+ },
+ "R161": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "na",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 0,
+  "q4": 0,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "trust_ethics",
+   "data_infra",
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 1,
+  "band": "low",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R168": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "integration"
+  ],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 2,
+  "band": "low",
+  "changed": {
+   "design": [
+    "Qualitative/case",
+    "Mixed"
+   ],
+   "outcome": [
+    "OTHER",
+    "FP"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q3": [
+    0,
+    1
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R170": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "SCA",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 3,
+  "band": "low",
+  "changed": {
+   "z": [
+    false,
+    true
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R173": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "R174": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R179": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "platform"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "tier": [
+    "Core",
+    "Supporting"
+   ],
+   "design": [
+    "Conceptual",
+    "Survey"
+   ],
+   "outcome": [
+    "CA",
+    "OTHER"
+   ],
+   "p1": [
+    "+",
+    "na"
+   ],
+   "q4": [
+    0,
+    1
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R181": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R182": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "dynamism",
+   "resources"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.884830/pdf",
+  "ft_note": "Section \"Limitations and Future Research\": \"solely pays attention to e-commerce firms in China\"; cross-sectional data.",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ]
+  },
+  "note": ""
+ },
+ "R183": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "integration",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "na",
+    "+"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R184": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R186": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition",
+   "resources"
+  ],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {},
+  "note": ""
+ },
+ "R193": {
+  "tier": "Core",
+  "design": "Qualitative/case",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "resources",
+   "imitability",
+   "dynamism"
+  ],
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://philair.org/index.php/jpair/article/download/976/1939/3845",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "outcome": [
+    "OTHER",
+    "FP"
+   ],
+   "q5": [
+    1,
+    0
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R199": {
+  "tier": "Core",
+  "design": "Formal model",
+  "outcome": "CA",
+  "p1": "c",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {},
+  "note": ""
+ },
+ "R212": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "CA",
+  "p1": "c",
+  "p2": "na",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "data_infra",
+   "trust_ethics"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://univagora.ro/jour/index.php/aijes/article/download/7635/2562",
+  "ft_note": "Conclusions: \"The study also has limitations. It is based on three case studies and secondary data\"",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "p1": [
+    "+",
+    "c"
+   ],
+   "p2": [
+    "+",
+    "na"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "t": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R213": {
+  "tier": "Core",
+  "design": "Conceptual",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "platform",
+   "integration",
+   "data_infra"
+  ],
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://link.springer.com/content/pdf/10.1007/s11575-026-00634-7.pdf",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    true,
+    false
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R216": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "platform"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://discovery.dundee.ac.uk/ws/files/159980870/Manuscript_Accepted_Version_IMR_1.pdf",
+  "ft_note": "Section 6.4 \"Limitations and future research\": \"Our findings are based on data from SMEs in China.\"",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R219": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 0,
+  "p3": [
+   "cognition",
+   "data_infra",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "+",
+    "na"
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R228": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 0,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://journals.sagepub.com/doi/full/10.1177/21582440221119478",
+  "ft_note": "Section heading 'Limitations'",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R241": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {},
+  "note": ""
+ },
+ "R242": {
+  "tier": "Core",
+  "design": "Survey",
+  "outcome": "INNOV",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "z": [
+    false,
+    true
+   ],
+   "q5": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "R247": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "data_infra",
+   "trust_ethics",
+   "resources"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "http://sit.stat.gov.pl/SiT/2025/2/gus_sit_2025_02_jakub_kubiczek_elzbieta_roszko_wojtowicz_julianna_koczy_et_all_harnessing_ai_for_business_transformation.pdf",
+  "ft_note": "Conclusions, final paragraph: \"this article highlights those AI implementations that prove successful... businesses rarely disclose failed implementations\"",
+  "q16": 3,
+  "band": "low",
+  "changed": {
+   "design": [
+    "Qualitative/case",
+    "Mixed"
+   ],
+   "p2": [
+    "na",
+    "+"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "t": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R252": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 0,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "dynamism",
+   "data_infra"
+  ],
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://pure.coventry.ac.uk/ws/files/60931666/Post_Print.pdf",
+  "ft_note": "",
+  "q16": 2,
+  "band": "low",
+  "changed": {
+   "design": [
+    "Conceptual",
+    "Qualitative/case"
+   ],
+   "s": [
+    false,
+    true
+   ],
+   "z": [
+    false,
+    true
+   ],
+   "t": [
+    true,
+    false
+   ],
+   "q1": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "R269": {
+  "tier": "Core",
+  "design": "Qualitative/case",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "q2": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "O01": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "O02": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "s": [
+    true,
+    false
+   ],
+   "z": [
+    true,
+    false
+   ],
+   "t": [
+    true,
+    false
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "O03": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "CA",
+  "p1": "c",
+  "p2": "na",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "imitability",
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "z": [
+    false,
+    true
+   ],
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "O04": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [],
+  "q7": "yes",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "O05": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "na",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 0,
+  "q4": 0,
+  "q5": 0,
+  "q6": 0,
+  "p3": [
+   "resources",
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 2,
+  "band": "low",
+  "changed": {
+   "p1": [
+    "+",
+    "na"
+   ],
+   "t": [
+    false,
+    true
+   ],
+   "q3": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ],
+   "q6": [
+    1,
+    0
+   ]
+  },
+  "note": "Abstract states aims only; direction of effects not reported"
+ },
+ "O06": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "data_infra",
+   "dynamism"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    false,
+    true
+   ],
+   "t": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "O07": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "SCA",
+  "p1": "c",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    true,
+    false
+   ],
+   "z": [
+    true,
+    false
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "O08": {
+  "tier": "Core",
+  "design": "Mixed",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "data_infra"
+  ],
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.mdpi.com/0718-1876/21/4/119/htm",
+  "ft_note": "Section 5.3 'Limitations and Future Research'",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "design": [
+    "Survey",
+    "Mixed"
+   ],
+   "p2": [
+    "+",
+    "na"
+   ],
+   "z": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "O09": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "BMI",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "O10": {
+  "tier": "Supporting",
+  "design": "Mixed",
+  "outcome": "SCA",
+  "p1": "+",
+  "p2": "c",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "p2": [
+    "+",
+    "c"
+   ],
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "O11": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ },
+ "O12": {
+  "tier": "Supporting",
+  "design": "Panel/archival",
+  "outcome": "RES",
+  "p1": "na",
+  "p2": "+",
+  "s": true,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics",
+   "resources"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "s": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "O13": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "BMI",
+  "p1": "na",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "resources"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 5,
+  "band": "medium",
+  "changed": {
+   "p1": [
+    "c",
+    "na"
+   ],
+   "z": [
+    true,
+    false
+   ]
+  },
+  "note": ""
+ },
+ "O14": {
+  "tier": "Core",
+  "design": "Formal model",
+  "outcome": "CA",
+  "p1": "c",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "platform"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p1": [
+    "+",
+    "c"
+   ]
+  },
+  "note": ""
+ },
+ "O15": {
+  "tier": "Core",
+  "design": "Conceptual",
+  "outcome": "OTHER",
+  "p1": "na",
+  "p2": "na",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 1,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "platform",
+   "trust_ethics"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 6,
+  "band": "high",
+  "changed": {
+   "p1": [
+    "+",
+    "na"
+   ],
+   "q4": [
+    0,
+    1
+   ]
+  },
+  "note": ""
+ },
+ "O16": {
+  "tier": "Supporting",
+  "design": "Conceptual",
+  "outcome": "SCA",
+  "p1": "c",
+  "p2": "na",
+  "s": true,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "imitability",
+   "integration"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 3,
+  "band": "low",
+  "changed": {
+   "outcome": [
+    "CA",
+    "SCA"
+   ],
+   "s": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R133": {
+  "tier": "Supporting",
+  "design": "Survey",
+  "outcome": "CA",
+  "p1": "+",
+  "p2": "+",
+  "s": true,
+  "z": true,
+  "t": true,
+  "q1": 1,
+  "q2": 0,
+  "q3": 1,
+  "q4": 0,
+  "q5": 1,
+  "q6": 1,
+  "p3": [
+   "trust_ethics",
+   "data_infra"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "t": [
+    false,
+    true
+   ]
+  },
+  "note": ""
+ },
+ "R180": {
+  "tier": "Supporting",
+  "design": "Qualitative/case",
+  "outcome": "FP",
+  "p1": "+",
+  "p2": "+",
+  "s": false,
+  "z": false,
+  "t": false,
+  "q1": 1,
+  "q2": 1,
+  "q3": 1,
+  "q4": 0,
+  "q5": 0,
+  "q6": 1,
+  "p3": [
+   "cognition"
+  ],
+  "q7": "not_assessable",
+  "evidence": "Abstract",
+  "ft_url": "",
+  "ft_note": "",
+  "q16": 4,
+  "band": "medium",
+  "changed": {
+   "outcome": [
+    "OTHER",
+    "FP"
+   ],
+   "z": [
+    true,
+    false
+   ],
+   "t": [
+    true,
+    false
+   ],
+   "q4": [
+    1,
+    0
+   ],
+   "q5": [
+    1,
+    0
+   ]
+  },
+  "note": ""
+ }
+}

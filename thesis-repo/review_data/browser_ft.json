@@ -1,0 +1,98 @@
+{
+ "R048": {
+  "accessed": true,
+  "source_url": "https://www.mdpi.com/2071-1050/18/9/4320/htm",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 6.2 'Limitations and Future Research Perspectives'",
+  "sample": "321 valid responses from 450 surveys, SMEs in Saudi Arabia",
+  "notes": "AIC -> digital platform capabilities non-significant (beta=0.068, p=0.058; H6 rejected); other paths significant; outcomes sustainable innovation and organisational resilience"
+ },
+ "R079": {
+  "accessed": true,
+  "source_url": "https://www.mdpi.com/2071-1050/18/3/1157/htm",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 5.4 'Limitations and Future Research Directions'",
+  "sample": "254 usable responses (executive survey, two waves)",
+  "notes": "no non-significant hypothesis found in text search"
+ },
+ "R091": {
+  "accessed": true,
+  "source_url": "https://www.mdpi.com/2076-3387/16/7/310/htm",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 6.2 'Limitations' (cross-sectional design)",
+  "sample": "300 valid SME responses, emerging market",
+  "notes": "no non-significant hypothesis found in text search"
+ },
+ "R108": {
+  "accessed": true,
+  "source_url": "https://www.mdpi.com/2305-6290/10/1/5/htm",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 6 'Limitations and Avenues for Future Research'",
+  "sample": "432 complete usable responses, hotel industry",
+  "notes": "no non-significant hypothesis found in text search"
+ },
+ "R131": {
+  "accessed": true,
+  "source_url": "https://www.mdpi.com/2079-8954/13/6/480/htm",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 6.3 'Limitations and Future Study Directions'",
+  "sample": "516 manufacturing enterprises, China (2025)",
+  "notes": "no non-significant hypothesis found in text search"
+ },
+ "O08": {
+  "accessed": true,
+  "source_url": "https://www.mdpi.com/0718-1876/21/4/119/htm",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 5.3 'Limitations and Future Research'",
+  "sample": "338 valid survey cases plus 105 open-ended comments analysed in NVivo",
+  "notes": "survey with qualitative analysis of open-ended comments (mixed elements)"
+ },
+ "R110": {
+  "accessed": true,
+  "source_url": "https://www.tandfonline.com/doi/full/10.1080/13675567.2025.2573664",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 5.4 'Research limitations and future research directions'",
+  "sample": "338 responses from 500 distributed surveys (manufacturing)",
+  "notes": "no non-significant hypothesis found in text search"
+ },
+ "R053": {
+  "accessed": true,
+  "source_url": "https://journals.sagepub.com/doi/full/10.1177/21582440261472113",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 'Limitations' (cross-sectional survey of Vietnamese SMEs)",
+  "sample": "463 valid questionnaires, Vietnamese SMEs",
+  "notes": "no non-significant hypothesis found in text search"
+ },
+ "R068": {
+  "accessed": true,
+  "source_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bsd2.70327",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 5.3 'Limitations and Avenues for Further Research'",
+  "sample": "20 semi-structured interviews, 15 companies (Germany, UK, Sweden, Finland)",
+  "notes": "qualitative interview study"
+ },
+ "R064": {
+  "accessed": true,
+  "source_url": "https://journals.sagepub.com/doi/full/10.1177/02683962251392284",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 'Limitations and directions for future research' (B2B firms in China only)",
+  "sample": "32 companies interviewed, B2B firms, China",
+  "notes": "qualitative multi-case/interview study"
+ },
+ "R228": {
+  "accessed": true,
+  "source_url": "https://journals.sagepub.com/doi/full/10.1177/21582440221119478",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section heading 'Limitations'",
+  "sample": "survey of public and private companies (110 private), middle managers",
+  "notes": "limitations heading present"
+ },
+ "R114": {
+  "accessed": true,
+  "source_url": "https://onlinelibrary.wiley.com/doi/full/10.1155/hbe2/1701203",
+  "limitations_discussed": "yes",
+  "limitations_evidence": "Section 5.3 'Limitations and Directions for Future Research'",
+  "sample": "307 usable responses, manufacturing sector, Pakistan",
+  "notes": "no non-significant hypothesis found in text search"
+ }
+}

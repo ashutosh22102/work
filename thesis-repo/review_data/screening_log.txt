@@ -1,0 +1,276 @@
+R001|S1|E|I|Supporting|10.1016/j.sbr.2026.100166
+R002|S1|S|E|E1|10.1109/ISADES69945.2026.11608236
+R003|S1|E|I|Supporting|10.26493/1854-6935.24.33-62
+R004|S1|E|I|Supporting|10.1016/j.indmarman.2025.05.007
+R005|S1|E|E|E7|10.1016/j.technovation.2025.103429
+R006|S1|E|I|Supporting|10.1016/j.eij.2026.101046
+R007|S1|E|I|Supporting|10.1016/j.sbr.2026.100158
+R008|S1|E|I|Supporting|10.1016/j.sbr.2026.100165
+R009|S1|S|E|E3|10.21608/aja.2026.522062.2174
+R010|S1|E|I|Supporting|10.1016/j.frl.2026.110199
+R011|S1|E|I|Supporting|10.1016/j.sbr.2026.100297
+R012|S1|S|E|E7|10.1016/j.wds.2026.100296
+R013|S1|S|E|E3|10.1016/j.jsinno.2026.200597
+R014|S1|S|E|E1|10.1109/ICISS71466.2026.11715049
+R015|S1|E|E|E4|10.1016/j.ijhm.2025.104410
+R016|S1|E|E|E4|10.1016/j.jik.2025.100863
+R017|S1|E|I|Supporting|10.1016/j.jbusres.2022.113609
+R018|S1|E|I|Supporting|10.1016/j.ijinfomgt.2026.103057
+R019|S1|S|E|E7|10.1016/j.ijinfomgt.2025.102956
+R020|S1|E|E|E7|10.1016/j.techsoc.2025.103007
+R021|S1|S|E|E3|10.1016/j.techfore.2025.124362
+R022|S1|E|I|Supporting|10.1016/j.jbusres.2025.115633
+R023|S1|S|E|E1|10.1109/IC4e65071.2025.11075348
+R024|S1|S|E|E7|10.1016/j.jik.2025.100774
+R025|S1|E|I|Supporting|10.1016/j.chbr.2026.101349
+R026|S1|E|I|Supporting|10.1016/j.sbr.2026.100240
+R027|S1|S|E|E7|10.1016/j.techsoc.2025.102870
+R028|S1|E|I|Supporting|10.1016/j.jengtecman.2024.101851
+R029|S1|S|E|E1|10.1109/ACDSA67686.2026.11467611
+R030|S1|E|I|Supporting|10.33168/JLISS.2026.0705
+R031|S1|E|I|Supporting|10.1016/j.jik.2026.101058
+R032|S1|E|I|Supporting|10.1108/ECAM-01-2025-0051
+R033|S1|S|E|E4|10.1016/j.drudis.2026.104795
+R034|S1|S|E|E7|10.1016/j.sbr.2026.100303
+R035|S1|S|E|E7|10.1080/13675567.2025.2479006
+R036|S1|E|I|Supporting|10.1016/j.sbr.2026.100109
+R037|S1|E|I|Supporting|10.1016/j.teler.2026.100342
+R038|S1|S|E|E3|10.1177/21582440251361981
+R039|S1|S|E|E7|10.1016/j.techsoc.2025.103176
+R040|S1|E|I|Supporting|10.1016/j.indmarman.2026.01.006
+R041|S1|E|I|Supporting|10.32996/jbms.2026.8.7.1
+R042|S1+S2|S|E|E2||2026|Saeedi|[Persian-language article on AI capabilities and competitive advantage in international markets]|Journal of Technology in Entrepreneurship & Strategic Management
+R043|S1|E|I|Supporting|10.1108/EJIM-03-2025-0397
+R044|S1|E|I|Supporting|10.1016/j.techfore.2025.124460
+R045|S1|E|E|E3|10.1016/j.jik.2025.100853
+R046|S1|S|E|E1|10.1109/ICISS71466.2026.11715475
+R047|S1|S|E|E7|10.1002/csr.70778
+R048|S1+S2|E|I|Supporting|10.3390/su18094320
+R049|S1|S|E|E7|10.1016/j.techsoc.2025.102937
+R050|S1|E|I|Supporting|10.1080/1528008x.2026.2711976
+R051|S1|E|E|E4|10.32479/irmm.24301
+R052|S1|S|E|E1|10.1109/ICTMOD63116.2024.10878250
+R053|S1|E|I|Supporting|10.1177/21582440261472113
+R054|S1|E|E|E4|10.2478/eoik-2026-0044
+R055|S1|S|E|E1|10.1109/AISTS66100.2025.11232806
+R056|S1|E|I|Supporting|10.1108/BPMJ-11-2024-1045
+R057|S1|E|I|Supporting|10.1016/j.ijinfomgt.2024.102781
+R058|S1|S|E|E1|10.1109/ICAIII69475.2026.11521427
+R059|S1|E|I|Supporting|10.1057/s41599-026-06851-7
+R060|S1|S|E|E7|10.1002/csr.70716
+R061|S1|S|E|E7|10.1002/csr.70649
+R062|S1|S|E|E7|10.1080/23311975.2025.2520914
+R063|S1|E|E|E3|10.22495/cbsrv5i1art4
+R064|S1|E|I|Supporting|10.1177/02683962251392284
+R065|S1|S|E|E7|10.1002/csr.70397
+R066|S1|S|E|E7|10.1002/csr.70487
+R067|S1|S|E|E3|10.3390/systems14070729
+R068|S1|E|I|Supporting|10.1002/bsd2.70327
+R069|S1|E|I|Supporting|10.3390/systems14050554
+R070|S1|E|E|E4||2026|Ciceri|Integrating artificial intelligence capabilities in supply chain cyber risk management.|International Journal of Physical Distribution & Logistics Management
+R071|S1+S2|S|E|E2||2025|Kim|[Korean-language article on dynamic capabilities, AI capabilities and market responsiveness]|Journal of Management and Information Research
+R072|S1|S|E|E3|10.1007/s11192-026-05679-x
+R073|S1|S|E|E3|10.1108/jsit-10-2022-0239
+R074|S1|S|E|E2||2026|Alizadeh|[Persian-language article on AI capabilities, B2B marketing and export performance]|Journal of Technology in Entrepreneurship & Strategic Management
+R075|S1|E|I|Supporting|10.5038/2640-6489.11.1.1358
+R076|S1|E|E|E9||2025|Anh|Impact of AI on Strategic Performance of Enterprises.|Cuestiones de Fisioterapia
+R077|S1|E|I|Supporting|10.53703/001c.158957
+R078|S1|S|E|E7|10.3390/su18052560
+R079|S1|E|I|Supporting|10.3390/su18031157
+R080|S1|S|E|E7|10.1016/j.sftr.2026.101677
+R081|S1|E|I|Supporting|10.1108/IMR-10-2024-0426
+R082|S1|E|E|E4||2025|Al-Madadha|The Impact of Open Innovation on Firm Performance in the Age of the Fourth Industrial Revolution: The Mediating Role of Big Data Analytics and Artificial Intelligence|Journal of Mu'tah Lil-Buhuth wad-Dirasat
+R083|S1|E|I|Supporting||2026|Zhong|Enhancing AI capability through supplier and customer integration in manufacturing.|Journal of Manufacturing Technology Management
+R084|S1|E|E|E7|10.64633/wissj.v10i6.05
+R085|S1|E|I|Supporting|10.1080/09537325.2025.2509233
+R086|S1|E|I|Supporting|10.32996/jbms.2026.8.9.1
+R087|S1|E|I|Supporting|10.5465/amr.2020.0205
+R088|S1+S2|E|I|Core|10.70917/ijcisim-2026-2978
+R089|S1|S|E|E7|10.1002/bse.71697
+R090|S1|S|E|E3|10.3390/data11050095
+R091|S1|E|I|Supporting|10.3390/admsci16070310
+R092|S1|S|E|E6|10.5937/JEMC2600004I
+R093|S1|E|I|Supporting|10.33168/JLISS.2026.1010
+R094|S1|S|E|E1|10.1109/ICBATS66542.2025.11258324
+R095|S1|S|E|E7|10.1108/JSMA-05-2025-0152
+R096|S1|E|I|Supporting||2026|AlQershi|Artificial intelligence and strategic resilience in international business: a new theory of multinational adaptation to geopolitical shocks.|Review of International Business & Strategy
+R097|S1|E|E|E4|10.1007/s44163-026-02363-0
+R098|S1|E|I|Supporting|10.3390/buildings16163241
+R099|S1|S|E|E7|10.3390/computation14080169
+R100|S1|S|E|E7||2026|Nguyen|Digital sustainability empowerment and B2B customer co-creation: how CSR value creation drives green innovation performance in emerging market SMEs.|Journal of Business & Industrial Marketing
+R101|S1|E|E|E5|10.19085/sijmd130201
+R102|S1|E|I|Supporting|10.1016/j.ijpe.2019.107599
+R103|S1|E|I|Supporting|10.37380/jisib.v15i2.3105
+R104|S1|S|E|E2|10.22034/jnamm.2025.561673.1213
+R105|S1|S|E|E7|10.3390/su18189219
+R106|S1|S|E|E3|10.70917/ijcisim-2026-3517
+R107|S1|E|E|E9||2026|Betito|Leadership, Artificial Intelligence Capability, and Total Quality Management as Strategic Determinants of Sustainable Operational Excellence Across Industries.|International Journal of Special Education
+R108|S1|E|I|Supporting|10.3390/logistics10010005
+R109|S1|E|E|E5|10.22399/ijcesen.5287
+R110|S1|E|I|Supporting|10.1080/13675567.2025.2573664
+R111|S1+S2|E|I|Core|10.46970/2026.32.2.01|2026|Alnahdi|AI-Driven Operational Efficiency in Digital Retail and E-Commerce: The Strategic Role of Service Innovation, Consumer Behaviour, and Business Performance|International Journal of Operations & Quantitative Management
+R112|S1|S|E|E3|10.1108/JM2-11-2022-0272
+R113|S1|S|E|E1|10.1109/RAAI64504.2024.10949520
+R114|S1|E|I|Supporting|10.1155/hbe2/1701203
+R115|S1|E|E|E4||2026|Messous|AI-Supported Digital Knowledge Management and the Transition to the Cognitive Economy: A Conceptual and Applied Framework.|Manhel Economic Journal
+R116|S1|S|E|E7|10.1007/s40558-026-00386-y
+R117|S1|E|I|Supporting||2026|Obeidat|Artificial Intelligence in the Strategic Management of Technological Innovation: A Contemporary Analysis.|International Management Review
+R118|S1|E|E|E4|10.20935/AcadEnergy8202
+R119|S1|E|I|Supporting|10.1007/s43621-026-03298-3
+R120|S1|E|I|Supporting|10.33141/po.2025.03.04|2025|Kwiatek|From Algorithms to Advantage: How AI Capability and Customer-Relating Routines Lift B2B Loyalty-Program Performance|Organization Review / Przeglad Organizacji
+R121|S1|E|E|E4|10.1007/s12652-026-05085-4
+R122|S1|E|I|Supporting|10.1007/s44163-026-01288-y
+R123|S1|E|I|Supporting|10.1108/JBIM-09-2024-0706
+R124|S1|S|E|E2||2026|Rahayu|[Indonesian-language article on AI skills management in a government ministry]|Jurnal Locus: Penelitian dan Pengabdian
+R125|S1|E|E|E6|10.12821/ijispm140303
+R126|S1|S|E|E1|10.1109/ICSCDS56580.2023.10105102
+R127|S1|S|E|E6|10.1109/ACCESS.2026.3692425
+R128|S1|E|E|E5|10.48047/jocaaa.2026.35.01.37
+R129|S1|E|I|Supporting|10.1287/stsc.2024.0190
+R130|S1|E|E|E5|10.19085/sijmd130203
+R131|S1|E|I|Supporting|10.3390/systems13060480
+R132|S1|E|I|Supporting|10.1142/S1363919625500173
+R133|S1|E|I|Supporting||2026|Norfleet|Ethical Considerations in AI Deployment across Global Markets.|Journal of Leadership, Accountability & Ethics
+R134|S1|E|E|E5|10.19085/sijmd130202
+R135|S1|E|I|Supporting|10.21608/jsec.2024.382928
+R136|S1+S2|E|E|E5||2026|Verma|Empowering Small Businesses Through AI-Driven Supply Chain Tools: Democratizing Cost Intelligence For Competitive Advantage.|Journal of International Crisis & Risk Communication Research
+R137|S1|E|I|Supporting|10.1108/JMD-05-2024-0171
+R138|S1|E|E|E4||2026|Behera|Adoption of AI in human capital development: a multi-industry perspective.|Journal of Enterprise Information Management
+R139|S1|E|E|E7|10.1080/19761597.2026.2745106
+R140|S1|E|E|E4|10.7433/s129.2026.03
+R141|S1|S|E|E6|10.3390/fintech4040054
+R142|S1|E|I|Supporting|10.1080/0965254x.2025.2605721
+R143|S1|S|E|E4|10.18421/TEM131-59
+R144|S1|E|E|E4|10.32996/jcsts.2025.7.65
+R145|S1|E|E|E4|10.1108/JMTM-10-2023-0456
+R146|S1|S|E|E3|10.12688/f1000research.158477.2
+R147|S1|E|E|E7|10.1016/j.sftr.2026.101789
+R148|S1|E|I|Supporting|10.1007/s13162-025-00323-y
+R149|S1|E|I|Supporting|10.1016/j.actpsy.2026.107351
+R150|S1|S|E|E1||2024|Rawat|Impact of AI Capabilities on IT Ambidexterity and Organizational Agility.|Proceedings of the Pacific Asia Conference on Information Systems
+R151|S1|E|I|Supporting|10.1007/s10796-022-10261-w
+R152|S1|E|E|E4|10.1007/s43681-024-00524-4
+R153|S1|S|E|E7|10.1002/bse.71211
+R154|S1|S|E|E4|10.3390/su17198806
+R155|S1|E|I|Core||2025|Mittal|Digitalization and Artificial Intelligence as Catalysts for Marketing Transformation in Electronic Business Environments.|European Economics Letters
+R156|S1|E|I|Supporting|10.1186/s43093-025-00533-7
+R157|S1|E|I|Supporting|10.1007/s40171-023-00367-8
+R158|S1|S|E|E4|10.3390/wevj17070346
+R159|S1|S|E|E4|10.1002/mar.22198
+R160|S1|E|E|E4|10.22059/jitm.2025.384662.3872
+R161|S1|E|I|Supporting||2025|Abdallah|The Impact of Artificial Intelligence Technologies on Institutional Competitive Performance From 2024 to 2034.|Journal of Economic Additions
+R162|S1|E|E|E4||2025|Stefan-Duicu|The Strategic Role of Generative AI in Managing Company's Processes|Challenges of the Knowledge Society
+R163|S1|S|E|E4|10.32996/jcsts.2025.7.6.11
+R164|S1|S|E|E4|10.32996/jcsts.2025.7.5.16
+R165|S1|S|E|E4|10.3390/jtaer20010031
+R166|S1|E|E|E6|10.65479/joinetech.12
+R167|S1|S|E|E5|10.1108/SD-06-2025-0173
+R168|S1|E|I|Supporting|10.1108/IJIS-02-2025-0051
+R169|S1|E|E|E4|10.1007/s10479-021-04407-3
+R170|S1|E|I|Supporting|10.1111/ijcs.70002
+R171|S1|E|E|E4|10.3390/su17010334
+R172|S1|S|E|E1||2021|Papagiannidis|Structuring AI Resources to Build an AI Capability: A Conceptual Framework.|Proceedings of the European Conference on Information Systems
+R173|S1|E|I|Supporting|10.1111/emre.70042
+R174|S1|E|I|Supporting|10.1108/JHTI-01-2023-0017
+R175|S1|S|E|E4|10.58861/tae.bm.2024.3.05
+R176|S1|S|E|E2|10.22034/jmep.2024.422828.1258
+R177|S1|S|E|E5|10.37380/jisib.v10i1.559
+R178|S1|E|E|E7|10.52131/jom.2024.0604.0133
+R179|S1|E|I|Supporting|10.1111/jpim.12807
+R180|S1|E|I|Supporting|10.1080/08874417.2024.2423190
+R181|S1|E|I|Supporting|10.1142/S136391962250030X
+R182|S1+S2|E|I|Core|10.3389/fpsyg.2022.884830
+R183|S1|E|I|Supporting|10.1108/BPMJ-10-2019-0411
+R184|S2|E|I|Core|10.1016/j.sbr.2026.100156
+R185|S2|S|E|E6|10.3390/info17090838
+R186|S2|E|I|Core|10.1016/j.jjimei.2024.100285
+R187|S2|S|E|E1|10.23919/INDIACom70271.2026.11526274
+R188|S2|S|E|E1|10.1109/ICCETM66557.2025.11557927
+R189|S2|S|E|E1|10.1109/iCoMET69771.2026.11591593
+R190|S2|S|E|E4|10.36719/2789-6919/54/100-103
+R191|S2|S|E|E1|10.1109/ICETISI67983.2025.11406008
+R192|S2|S|E|E1|10.1109/ICERA66156.2025.11087376
+R193|S2|E|I|Core|10.7719/jpair.v63i1.976
+R194|S2|S|E|E1|10.1109/SIST61674.2026.11596420
+R195|S2|S|E|E4|10.62370/hbds.v27i2.285274
+R196|S2|S|E|E4|10.1016/j.ijpe.2025.109525
+R197|S2|S|E|E1|10.1109/ICIDCA66325.2025.11280580
+R198|S2|E|E|E7|10.1016/j.ssaho.2025.101906
+R199|S2|E|I|Core|10.1109/TEM.2025.3550400
+R200|S2|S|E|E4||2026|Aydiner|Adoption Frequencies of Expert-Driven Learning-Based AI Taxonomy among R&D SMEs and Start-ups in Turkiye.|Anadolu University Journal of Social Sciences
+R201|S2|S|E|E4||2026|Fatu|E-Commerce in the Era of Digital Globalization and Artificial Intelligence.|International Journal of Communication Research
+R202|S2|S|E|E1|10.1109/ICSIT65336.2025.11295478
+R203|S2|S|E|E4|10.46632/jbab/5/2/11
+R204|S2|S|E|E4|10.32479/irmm.21427
+R205|S2|S|E|E4|10.1007/s13198-026-03211-1
+R206|S2|S|E|E4|10.1590/1678-6971/eRAMD250090
+R207|S2|S|E|E2|10.36962/PAHTEI53052025-359
+R208|S2|S|E|E1|10.1109/NGISE64126.2025.11085304
+R209|S2|S|E|E4||2025|G.|Digital Transformation in Commerce: Evaluating the Impact on Consumer Behavior and Business Growth|Cuestiones de Fisioterapia
+R210|S2|S|E|E1|10.1109/InTech64186.2025.11198535
+R211|S2|S|E|E1|10.1109/IC3TES62412.2024.10877578
+R212|S2|E|I|Supporting|10.15837/aijes.v20i1.7635
+R213|S2|E|I|Core|10.1007/s11575-026-00634-7
+R214|S2|S|E|E4||2026|Balcioglu|Strategic Management: Theoretical Evolution, Core Frameworks, and Contemporary Frontiers.|Journal of International Management Research & Applications
+R215|S2|S|E|E4|10.1016/j.susoc.2023.02.001
+R216|S2|E|I|Core|10.1108/IMR-10-2024-0418
+R217|S2|S|E|E3||2025|Polineni|Innovating with Generative AI and Cloud Technologies: Holistic Approach to Revolutionizing Patient Care and Modernizing Businesses.|Cuestiones de Fisioterapia
+R218|S2|S|E|E4|10.15587/2706-5448.2024.305280
+R219|S2|E|I|Core|10.1057/s41272-025-00554-5
+R220|S2|S|E|E2|10.22034/jnamm.2025.500793.1067
+R221|S2|E|E|E4|10.34120/ajas.2025.1397
+R222|S2|S|E|E2|10.36962/PAHTEI50032025-553
+R223|S2|S|E|E4||2026|Binjaah|AI-Optimized Sustainable Last-Mile Delivery in E-Commerce: Challenges, Solutions, and Policy Recommendations for Azerbaijan.|Manar Elsharq Journal for Management & Commerce Studies
+R224|S2|S|E|E4||2025|Memela|Artificial Intelligence as an Innovation Strategy: The Role of Service Performance on Customer Satisfaction and Commitment|Journal of Emerging Trends in Marketing and Management
+R225|S2|S|E|E4|10.3390/jtaer21040120
+R226|S2|S|E|E1|10.23919/PICMET64035.2024.10653296
+R227|S2|S|E|E2|10.46799/syntax-idea.v6i9.4425
+R228|S2|E|I|Core|10.1177/21582440221119478
+R229|S2|E|E|E3|10.3390/economies14010005
+R230|S2|S|E|E2|10.36962/PAHTEI51042025-759
+R231|S2|S|E|E4|10.1080/10447318.2026.2684316
+R232|S2|S|E|E4|10.48047/jocaaa.2025.34.07.17
+R233|S2|S|E|E3|10.21625/archive-sr.v9i1.1137
+R234|S2|S|E|E1|10.1109/MEES52427.2021.9598744
+R235|S2|S|E|E4|10.24988/ije.1649907
+R236|S2|S|E|E4|10.1080/23311975.2024.2448608
+R237|S2|S|E|E5|10.1007/s10660-026-10153-0
+R238|S2|S|E|E2|10.14232/jtgf.2026.2.55-61
+R239|S2|E|E|E4|10.3390/su17198749
+R240|S2|S|E|E1|10.1093/9780198948407.003.0007
+R241|S2|E|I|Core|10.1108/IJLM-01-2024-0046
+R242|S2|E|I|Core|10.21511/im.20(3).2024.14
+R243|S2|S|E|E4||2024|Mogali|AI and Cloud Technologies in E-commerce: A Novel Strategy for Enhancing Customer Experience and Cybersecurity.|Journal of Computational Analysis & Applications
+R244|S2|S|E|E4|10.32342/3041-2153-2025-2-39-7
+R245|S2|S|E|E4||2026|Khadich|The impact of digital supply chain efficiency on customer satisfaction: A study of a sample of online stores.|Economic Researcher Review
+R246|S2|S|E|E4||2025|Goldmann|Changing the Approach to Value Propositions in the Business Models of Polish Apparel Companies: The Impact of Digitalization, Personalization, and Sustainability|European Research Studies
+R247|S2|E|I|Supporting|10.59139/stattrans-2025-022
+R248|S2|S|E|E4|10.47813/2782-5280-2025-4-2-2028-2034
+R249|S2|S|E|E4|10.1038/s41598-026-43380-4
+R250|S2|S|E|E4|10.22059/imj.2025.380395.1008173
+R251|S2|E|E|E4|10.56961/mejmcs.v3i1.877
+R252|S2|E|I|Supporting|10.1080/09537287.2022.2060858
+R253|S2|S|E|E6|10.1080/23311975.2024.2419489
+R254|S2|S|E|E4|10.62425/conicom.1620170
+R255|S2|S|E|E4||2023|Josimovski|Advantages of Implementing Artificial Intelligence in E-Business for Consumers.|Knowledge: International Journal
+R256|S2|S|E|E4|10.1108/SEAMJ-02-2024-0020
+R257|S2|S|E|E3|10.1108/IJSSP-02-2024-0086
+R258|S2|S|E|E2||2025|Nie|[Chinese-language article on AI recommendations and consumers' green purchase intention]|Nankai Business Review
+R259|S2|S|E|E2|10.22034/jbar.2024.22381.4490
+R260|S2|S|E|E4|10.26881/wg.2024.2.03
+R261|S2|S|E|E4|10.1080/14778238.2026.2631088
+R262|S2|S|E|E2|10.22034/jvcbm.2024.429477.1268
+R263|S2|S|E|E2|10.22034/jnamm.2025.509778.1077
+R264|S2|S|E|E4|10.47535/1991AUOES31(2)025
+R265|S2|S|E|E2|10.22034/epj.2024.20935.2537
+R266|S2|S|E|E4|10.1007/s13132-024-01885-1
+R267|S2|E|E|E5||2017|Jablonska|Artificial Intelligence-Based Processes in SMEs.|Studies & Proceedings of Polish Association for Knowledge Management
+R268|S2|S|E|E4|10.18280/isi.280521
+R269|S2|E|I|Core|10.1108/IJLM-02-2021-0094
+R270|S2|S|E|E4|10.2478/picbe-2023-0102
+R271|S2|S|E|E2|10.22034/jvcbm.2023.389183.1068
+R272|S2|S|E|E4|10.54929/2786-5738-2024-16-04-18
+R273|S2|S|E|E4|10.3390/su15075690
+R274|S2|S|E|E4|10.1155/2022/5908877
+R275|S2|S|E|E4||2021|Hande|A Study Of Managerial Skills On Digital Transformation To Lead Change In 21st Century.|Aweshkar Research Journal
+R276|S2|S|E|E1||2017|Samuel|Machine Learning and Tactical Synopses for Big Data Analytics in E-Commerce: Propositions for Strategic Information Modeling (SIM).|Proceedings of the Northeast Business & Economics Association

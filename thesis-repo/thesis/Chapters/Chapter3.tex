@@ -1,0 +1,228 @@
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 3 - RESEARCH METHODOLOGY (guideline 2.3)   ~10 pages
+% Outlines the research design only - findings follow in chapter 4.
+% All numbers below come from the search run on 30 October 2026 and the
+% screening log (SLR_Search_and_Screening.xlsx).
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Research Methodology}
+\label{ch:methodology}
+
+This chapter describes how the research questions are answered. It first explains the research philosophy and the choice of a systematic literature review as research design (Section~\ref{sec:design}). It then documents the literature search (Section~\ref{sec:search}), the inclusion and exclusion criteria (Section~\ref{sec:criteria}), the selection of studies and the extraction of data (Section~\ref{sec:selection}), and the procedures for quality assessment and evidence synthesis (Section~\ref{sec:quality}). The chapter closes with a discussion of the methodological limitations (Section~\ref{sec:method-limitations}).
+
+% ------------------------------------------------------------
+\section{Research Philosophy and Design}
+\label{sec:design}
+
+The thesis follows a pragmatist research philosophy. Its aim is not to test a single causal model, but to understand how AI capabilities, dynamic capabilities and sustainable competitive advantage are linked, based on the best available evidence. This evidence is heterogeneous: it includes quantitative surveys, panel studies of listed firms, qualitative case studies, formal models and conceptual papers. A pragmatist stance allows these different types of knowledge to be combined as long as they contribute to answering the research questions. Ontologically, the thesis assumes that capabilities and competitive advantages are real organisational phenomena, but that they can only be observed indirectly through the concepts, measures and interpretations used in the primary studies. The review therefore treats the findings of each study as evidence that has to be interpreted in light of its theoretical lens, its context and its design.
+
+The research logic is abductive. On the one hand, the review is guided by the theoretical framework developed in Chapter~\ref{ch:literature} (Figure~\ref{fig:conceptual-framework}) and by the three propositions formulated in Section~\ref{sec:propositions}. On the other hand, the synthesis remains open to themes that are not anticipated by the framework, for example new mechanisms or boundary conditions. In this way, deductive elements (assessing the propositions) are combined with inductive elements (identifying emerging themes).
+
+As research design, the thesis uses a systematic literature review. \textcite[207]{tranfield2003} argue that traditional narrative reviews frequently lack thoroughness and can be biased by the researcher, and they propose systematic review as a methodology for developing evidence-informed management knowledge. \textcite[333]{snyder2019} similarly notes that knowledge production in business research is fragmented and interdisciplinary, and that traditional reviews are often conducted ad hoc rather than following a specific methodology. Among the different types of reviews, which \textcite[183]{pare2015} distinguish in a typology of nine review types along seven dimensions, this thesis adopts a systematic review with a qualitative, thematic synthesis. Its procedure follows the guidelines of \textcite[2577]{kraus2022} and \textcite[1]{paul2020}, who describe the purpose, steps and structure of systematic literature reviews in management and international business research.
+
+The choice of this design has several advantages. First, it fits the research gap identified in Section~\ref{sec:framework}: the evidence on AI capabilities and competitive advantage is fragmented across industries, theories and methods, and a systematic synthesis is needed to integrate it. Second, the explicit documentation of every step makes the review transparent and replicable, which reduces the risk of a selective use of sources. Third, a review can draw on a much larger evidence base than a single empirical study could provide within the scope of a Master's thesis. At the same time, the design has drawbacks. A review cannot establish causality beyond what the primary studies allow, it depends on what has been published and indexed, and its conclusions are only as reliable as the underlying studies. Collecting primary data, for example through a survey of e-commerce managers, would have allowed specific measurement of sustainable competitive advantage, but it would have provided evidence from only one sample at one point in time. Given the aim of the thesis, the systematic review is therefore considered the more suitable design. Its limitations are addressed through the quality assessment (Section~\ref{sec:quality}) and discussed in Section~\ref{sec:method-limitations}.
+
+% ------------------------------------------------------------
+\section{Literature Search Strategy}
+\label{sec:search}
+
+The literature search was carried out on 30 October 2026 in the EBSCO Discovery Service, accessed through the university library of the IU International University of Applied Sciences. The discovery service searches a large number of databases in a single interface; in this search, records were retrieved among others from Business Source Ultimate, ScienceDirect, Emerald Insight, Springer Nature Journals, Academic Search Ultimate and the Complementary Index. A discovery service was chosen because it covers the main publishers of management and information systems journals while allowing a single, consistent search syntax.
+
+The search terms were derived from the research questions and organised into concept blocks. The first block captures AI capabilities, the second block captures the theoretical outcomes of interest (dynamic capabilities and competitive advantage), and the third block captures the business context of the thesis. Synonyms within a block were combined with \texttt{OR}, and the blocks were combined with \texttt{AND}. Truncation (\texttt{*}) was used to capture variants such as \emph{capability} and \emph{capabilities}. To keep the results focused, all terms were searched in the title (\texttt{TI}) and abstract (\texttt{AB}) fields only. Two filters were applied: peer-reviewed publications and a publication period from 2015 to 2026. The starting year reflects the fact that research on AI as an organisational capability only gained momentum in the second half of the 2010s.
+
+Two searches were conducted, as summarised in Table~\ref{tab:search-strategy}; the complete search strings are documented in Appendix~\ref{AppendixA}. The primary search (S1) combined AI capability terms with dynamic capabilities and competitive advantage, irrespective of industry, and returned 407 records. Because studies set in e-commerce and platform businesses do not always use the term \emph{AI capability}, a supplementary search (S2) combined broader AI terms with the outcome block and the e-commerce and platform context block; it returned 205 records. Testing an even broader string without the capability or context restriction yielded 4,368 peer-reviewed records, which would not have been manageable with the screening resources of a single reviewer and would have contained a large share of irrelevant studies. As \textcite[229]{hiebl2023} emphasises, the sample selection process is a vital part of systematic reviews in management research and must be organised and reported transparently; the two-step search strategy was chosen for this reason.
+
+\begin{table}[H]
+  \centering
+  \caption{Literature Search Strategy}
+  \label{tab:search-strategy}
+  \small\setstretch{1.0}
+  \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{2.2cm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}p{1.7cm}>{\raggedright\arraybackslash}p{2.6cm}}
+    \toprule
+    \textbf{Search} & \textbf{Concept blocks (searched in title and abstract)} & \textbf{Records} & \textbf{After automatic de-duplication} \\
+    \midrule
+    S1 (primary) & AI capability terms \textbf{AND} dynamic capabilities / (sustainable) competitive advantage & 407 & 214 \\
+    \addlinespace
+    S2 (supple\-mentary) & Broad AI terms (incl.\ generative AI) \textbf{AND} dynamic capabilities / competitive advantage \textbf{AND} e-commerce / online retail / digital platform terms & 205 & 106 \\
+    \addlinespace
+    Filters & Peer reviewed; publication years 2015--2026; search date 30 October 2026 & & \\
+    \addlinespace
+    Database & EBSCO Discovery Service via the IU university library & \textbf{612} & \textbf{320} \\
+    \bottomrule
+  \end{tabularx}
+  \source{Author's own work; full search strings in Appendix~\ref{AppendixA}}
+\end{table}
+
+In addition to the database search, 16 studies were identified through other methods. These are studies that had already been located in the library during the literature review in Chapters~\ref{ch:intro} and~\ref{ch:literature} and that meet the inclusion criteria, but were not retrieved by the search strings, for example because their abstracts use terms such as \emph{AI assimilation} or \emph{AI-based CRM} instead of \emph{AI capability}. Their inclusion follows the advice of \textcite[xvi]{webster2002} not to rely on keyword searches alone but to also draw on the citations of key articles. In line with the PRISMA 2020 statement \parencite[178]{page2021}, these studies are reported separately in the flow diagram.
+
+% ------------------------------------------------------------
+\section{Inclusion and Exclusion Criteria}
+\label{sec:criteria}
+
+The eligibility of each record was assessed against predefined criteria, which are summarised in Table~\ref{tab:criteria}. Each exclusion was assigned a reason code (E1 to E7 and E9), so that the selection process can be traced in the screening log. Four criteria require explanation.
+
+First, the review is restricted to firm-level studies of business organisations, since the research questions concern the competitive advantage of firms. Studies on public organisations, individual employees, consumers or national economies were excluded (E3). Second, the term \emph{sustainable} is used in this thesis in the strategic sense of an advantage that persists over time. Studies whose outcome is limited to environmental, green or ESG performance, without any reference to competitive advantage or firm performance, were therefore excluded (E7), even though they may use the word \emph{sustainable}. Third, studies on AI were only included if AI capabilities or the organisational use of AI were a focal construct and were related to dynamic capabilities, competitive advantage or firm performance (E4).
+
+Fourth, the same eligibility criteria were applied to all studies, irrespective of the journal in which they were published. Journal rankings were deliberately not used as an inclusion or exclusion criterion, because a study should neither be included merely because it appears in a highly ranked journal nor excluded merely because its journal is not ranked. Instead, the listing of each journal in the VHB Rating 2024 of the German Academic Association for Business Research is recorded as descriptive information, and the quality of each study is assessed on the basis of its methodology and evidence (Section~\ref{sec:quality}). The only exception concerns business articles published in journals far outside their stated subject scope, such as business studies in a physiotherapy journal. Such cases indicate doubtful peer review and were excluded (E9).
+
+Finally, the included studies are classified into two tiers. Core studies examine e-commerce, online retail or platform-based businesses, while supporting studies examine AI capabilities in other industries. This distinction does not affect inclusion, but it ensures that evidence from other industries is not mistaken for context-specific evidence in the synthesis.
+
+\begin{table}[H]
+  \centering
+  \caption{Inclusion and Exclusion Criteria}
+  \label{tab:criteria}
+  \small\setstretch{1.0}
+  \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X}
+    \toprule
+    \textbf{Criterion} & \textbf{Inclusion} & \textbf{Exclusion (code)} \\
+    \midrule
+    Publication type & Peer-reviewed journal articles & Conference papers, book chapters (E1); editorials, introductions, practitioner or descriptive pieces (E5); literature reviews and bibliometric studies (E6) \\
+    \addlinespace
+    Language & English & Other languages (E2) \\
+    \addlinespace
+    Period & Published 2015--2026 & Earlier publications (search filter) \\
+    \addlinespace
+    Level of analysis & Business firms, including SMEs, start-ups, MNEs and platform firms & Public sector, individuals, consumers, national or macro level (E3) \\
+    \addlinespace
+    Focal construct & AI capabilities or organisational AI use as a focal construct & AI not focal or not related to the research questions (E4) \\
+    \addlinespace
+    Outcome or mechanism & Dynamic capabilities, competitive advantage or firm performance & Only environmental, green or ESG outcomes (E7) \\
+    \addlinespace
+    Outlet & Journal within its stated subject scope; VHB listing recorded descriptively only & Business article in a journal far outside its subject scope (E9) \\
+    \addlinespace
+    Context (tier) & Core: e-commerce, online retail and platforms; supporting: other industries & -- (classification only) \\
+    \bottomrule
+  \end{tabularx}
+  \source{Author's own work}
+\end{table}
+
+% ------------------------------------------------------------
+\section{Study Selection and Data Extraction}
+\label{sec:selection}
+
+The selection of studies followed the PRISMA 2020 statement, which provides a reporting guideline for the identification, screening and inclusion of studies in systematic reviews \parencite[178]{page2021}. The process is shown in Figure~\ref{fig:screening}. Of the 612 records identified, 292 duplicates were removed by the automatic de-duplication of the EBSCO Discovery Service, which merges identical records from different databases. A further 44 duplicates, which appeared in both searches or had not been merged automatically, were removed manually by comparing DOIs and titles. The remaining 276 records were screened on the basis of their titles and abstracts, and 140 records were excluded. The most frequent reasons were that AI capabilities were not the focal construct or were unrelated to the research questions (49), that the records were conference papers (28), that the outcome was limited to environmental performance (23) and that the articles were not written in English (18).
+
+The remaining 136 reports were assessed for eligibility on the basis of their abstracts, keywords and bibliographic information. In this step, 43 reports were excluded, most often because AI capabilities were not the focal construct or the study did not address dynamic capabilities, competitive advantage or firm performance (22), because they were essays or practitioner pieces rather than research articles (7), or because their outcome was limited to environmental performance (7). This resulted in 93 studies from the database search. Together with the 16 studies identified through other methods, the review includes 109 studies, of which 19 are core studies from e-commerce and platform contexts and 90 are supporting studies from other industries. Of the 109 studies, 56 are published in journals listed in the VHB Rating 2024. All screening decisions and reasons are documented in a screening log, which is provided as a supplementary spreadsheet.
+
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[
+      font=\scriptsize,
+      main/.style={draw, rounded corners=2pt, align=center, text width=4.2cm, minimum height=1.25cm, fill=gray!8},
+      side/.style={draw, rounded corners=2pt, align=left, text width=4.9cm, minimum height=1.25cm},
+      oth/.style={draw, rounded corners=2pt, align=center, text width=3.0cm, minimum height=1.25cm, fill=gray!8},
+      stage/.style={align=left, text width=1.8cm, font=\scriptsize\bfseries},
+      arr/.style={-{Stealth[length=1.8mm]}, thick}]
+    % rows: y = 0, -2.0, -4.0, -6.1; columns: stage -0.6, main 3.0, side 8.0, other 12.4
+    \node[stage] at (-0.6,0) {Identification};
+    \node[stage] at (-0.6,-2.0) {Screening};
+    \node[stage] at (-0.6,-4.0) {Eligibility};
+    \node[stage] at (-0.6,-6.1) {Included};
+    \node[main] (id) at (3.0,0) {Records identified from EBSCO\\ Discovery Service (n = 612)\\ S1: n = 407; S2: n = 205};
+    \node[side] (dup) at (8.0,0) {Records removed before screening:\\ duplicates removed by EBSCO (n = 292)\\ duplicates removed manually (n = 44)};
+    \node[main] (scr) at (3.0,-2.0) {Records screened\\ (title and abstract)\\ (n = 276)};
+    \node[side] (scrx) at (8.0,-2.0) {Records excluded (n = 140):\\ E1 n = 28; E2 n = 18; E3 n = 14;\\ E4 n = 49; E5 n = 3; E6 n = 5;\\ E7 n = 23};
+    \node[main] (eli) at (3.0,-4.0) {Reports assessed for\\ eligibility (n = 136)};
+    \node[side] (elix) at (8.0,-4.0) {Reports excluded (n = 43):\\ E3 n = 3; E4 n = 22; E5 n = 7;\\ E6 n = 2; E7 n = 7; E9 n = 2};
+    \node[main, fill=gray!18, minimum height=1.5cm] (inc) at (3.0,-6.1) {\textbf{Studies included (n = 109)}\\ database search: n = 93\\ other methods: n = 16\\ core: n = 18\\ supporting: n = 91};
+    \node[oth] (o1) at (12.8,0) {Records identified via\\ other methods (known\\ literature) (n = 16)};
+    \node[oth] (o2) at (12.8,-4.0) {Reports assessed for\\ eligibility (n = 16);\\ excluded (n = 0)};
+    \draw[arr] (id) -- (scr); \draw[arr] (scr) -- (eli); \draw[arr] (eli) -- (inc);
+    \draw[arr] (id) -- (dup); \draw[arr] (scr) -- (scrx); \draw[arr] (eli) -- (elix);
+    \draw[arr] (o1) -- (o2); \draw[arr] (o2.south) |- (inc.east);
+  \end{tikzpicture}
+  \caption{Literature Screening Flow Diagram}
+  \label{fig:screening}
+  \source{Author's own work based on the PRISMA 2020 flow diagram \parencite[178]{page2021}}
+\end{figure}
+
+\label{sec:data-extraction}For each included study, data are extracted into a structured spreadsheet using the framework shown in Table~\ref{tab:extraction}. The data items correspond to the elements of the conceptual framework, so that every study can be mapped to the relationships that the propositions address. Besides bibliographic information, the extraction covers the research design and context, the conceptualisation of AI capabilities, the role of sensing, seizing and transforming, the type of outcome and the main findings. To address the conceptual distinction emphasised in Section~\ref{sec:objectives}, the outcome of each study is classified as firm performance, competitive advantage or sustainable competitive advantage.
+
+\begin{table}[H]
+  \centering
+  \caption{Data Extraction Framework}
+  \label{tab:extraction}
+  \small\setstretch{1.0}
+  \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{4.2cm}>{\raggedright\arraybackslash}X}
+    \toprule
+    \textbf{Data item} & \textbf{Description} \\
+    \midrule
+    Bibliographic data & Authors, year, journal, tier (core or supporting), VHB listing \\
+    \addlinespace
+    Research objective and theory & Aim of the study; theoretical lens (RBV, dynamic capabilities or other) \\
+    \addlinespace
+    Research design & Survey, panel data, case study, experiment, formal model or conceptual paper \\
+    \addlinespace
+    Sample and context & Sample size, country, industry and business context \\
+    \addlinespace
+    AI capability construct & How AI capability or AI use is conceptualised and measured \\
+    \addlinespace
+    Dynamic capabilities & Role of sensing, seizing and transforming (or related constructs such as agility and resilience) \\
+    \addlinespace
+    Outcome type & Firm performance, competitive advantage or sustainable competitive advantage \\
+    \addlinespace
+    Main findings & Direction and nature of the reported relationships \\
+    \addlinespace
+    Mediators and moderators & Mechanisms and boundary conditions reported in the study \\
+    \addlinespace
+    Relevance to propositions & Evidence supporting or contradicting P1, P2 and P3 \\
+    \addlinespace
+    Limitations & Limitations reported by the authors or identified in the quality assessment \\
+    \bottomrule
+  \end{tabularx}
+  \source{Author's own work}
+\end{table}
+
+The data were extracted from the abstracts, keywords and bibliographic records of the included studies, which were retrieved through the library and through the open bibliographic databases Crossref, OpenAlex and Semantic Scholar. To make the coding comparable across studies, several data items were coded with predefined categories. The outcome of each study was classified as firm performance, competitive advantage, sustainable competitive advantage, resilience, innovation, business model innovation or another outcome. The role of the three dynamic capabilities was recorded separately for sensing, seizing and transforming, so that a study could address one, two or all three of them; related constructs such as agility were assigned to the capability they primarily represent. For each proposition, the evidence of a study was coded as supportive, conditional, not significant, constraining or not addressed. A study was coded as conditional when the authors explicitly described the relationship as depending on specific circumstances, and as not significant when the direct effect of AI capabilities was reported as statistically insignificant, even if indirect effects were present.
+
+Firm performance was not treated as competitive advantage, and competitive advantage was only coded as sustainable if the authors explicitly framed it as sustained or long-term. Where a study addressed several outcomes, the most advantage-related outcome was coded (sustainable competitive advantage before competitive advantage, firm performance and innovation); new product performance was coded as an innovation outcome. Evidence on P1 was coded only for these four outcomes, and a study whose abstract did not report the direction of an effect was coded as providing insufficient evidence rather than as supportive.
+
+To check the consistency of the coding, all 109 studies were coded a second time, independently of the first coding and on the basis of a written codebook that defines every category and decision rule. The second coding was carried out with the assistance of a large language model that applied the codebook to the abstracts without access to the first coding. Agreement between the two codings was high for tier ($\kappa$ = 0.90), research design ($\kappa$ = 0.84) and outcome type ($\kappa$ = 0.84), substantial for P1 ($\kappa$ = 0.70) and moderate for P2 ($\kappa$ = 0.53) and for sensing, seizing and transforming ($\kappa$ = 0.37 to 0.47); for the quality criteria Q1 to Q6, the two codings agreed in 80 to 99 per cent of the cases. All disagreements were resolved by re-applying the codebook, and the adjudicated codes form the basis of Chapter~\ref{ch:results}. The lower agreement for the three dynamic capabilities shows that their assignment involves interpretation, which is why the corresponding results are reported as tendencies rather than exact frequencies.
+
+In addition, the full text of every open-access study was checked where it could be retrieved. Of the 52 open-access studies, 29 full texts were accessible and were used to verify the coding of the outcome, of the direct effect and of the sample, and to assess whether limitations are discussed. For each study, the data extraction sheet records whether the coding is based on the full text or on the abstract only. All codes were recorded together with a short summary of the main findings, the mediators and the moderators reported in each study, so that every statement in Chapter~\ref{ch:results} can be traced back to the individual studies on which it is based. For the 80 studies coded from abstracts, details that are only reported in the full texts, such as measurement instruments or robustness tests, could not be considered systematically. This limitation is discussed in Section~\ref{sec:method-limitations}.
+
+% ------------------------------------------------------------
+\section{Quality Assessment and Evidence Synthesis}
+\label{sec:quality}
+
+Since the included studies differ considerably in design and rigour, their quality is assessed with a checklist of seven criteria, shown in Table~\ref{tab:quality}. Criteria Q1 to Q6 are rated as met (1) or not met (0), resulting in a quality score between 0 and 6. Studies that meet all six criteria are classified as high quality, studies with 4 or 5 as medium quality and studies with 3 or less as low quality. Criterion Q7 is rated as yes, no or not assessable and is reported separately from the score, as explained below. Because the criteria have to be applicable to quantitative, qualitative, modelling and conceptual studies, they refer to general characteristics of good research rather than to design-specific standards. The score is based only on the methodology and evidence of a study; the journal's VHB listing is reported separately and does not enter the score. The quality assessment is not used to exclude further studies; instead, it determines how much weight a study receives in the synthesis, so that conclusions rest primarily on high-quality evidence.
+
+\begin{table}[H]
+  \centering
+  \caption{Study Quality Assessment Framework}
+  \label{tab:quality}
+  \small\setstretch{1.0}
+  \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.8cm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}p{2.0cm}}
+    \toprule
+    \textbf{No.} & \textbf{Assessment question} & \textbf{Rating} \\
+    \midrule
+    Q1 & Is the research aim or question clearly stated? & 1 = yes / 0 = no \\
+    Q2 & Is the study explicitly grounded in theory (e.g.\ RBV or dynamic capabilities)? & 1 / 0 \\
+    Q3 & Is the research design appropriate for the aim? & 1 / 0 \\
+    Q4 & Are the sample, data or cases described transparently? & 1 / 0 \\
+    Q5 & Is the analysis rigorous (e.g.\ validity and reliability tests, systematic coding, explicit model assumptions)? & 1 / 0 \\
+    Q6 & Are the conclusions supported by the data or arguments presented? & 1 / 0 \\
+    \midrule
+    & \textbf{Quality score Q1--Q6} (high: 6; medium: 4--5; low: 0--3) & 0--6 \\
+    Q7 & Are the limitations of the study discussed? (reported separately) & yes / no / not assessable \\
+    & \emph{Recorded separately (not scored): journal listed in the VHB Rating 2024} & yes / no \\
+    \bottomrule
+  \end{tabularx}
+  \source{Author's own work}
+\end{table}
+
+Some criteria require interpretation for particular designs. For conceptual papers, criterion Q4 is interpreted as the transparency of the conceptual approach, for example an explicit description of the theories and logic used to derive propositions, and criterion Q5 as the rigour of the argumentation. For formal models, Q4 refers to the explicit statement of model assumptions. Criterion Q7 requires particular care. Abstracts rarely mention limitations, so rating Q7 as not met whenever an abstract is silent would systematically underrate all studies coded from abstracts and would distort the comparison with studies whose full text was read. Q7 was therefore rated as yes or no only where the full text was checked or the abstract itself refers to limitations, and as not assessable otherwise. Because Q7 cannot be assessed for most studies, it is reported separately and does not enter the quality score, so that the score is based on the same six criteria for every study.
+
+The evidence is synthesised thematically. Thematic synthesis was developed to bring together and integrate the findings of multiple studies within systematic reviews \parencite[1]{thomas2008}, and thematic analysis is regarded as an accessible and theoretically flexible approach to identifying patterns in qualitative material \parencite[77]{braun2006}. In this thesis, the extracted findings are first coded according to the elements of the conceptual framework: AI capabilities, sensing, seizing, transforming, competitive advantage, sustainable competitive advantage and contextual factors. These codes are then grouped into themes that correspond to the research questions, while new themes that emerge from the data are added where necessary. The results are reported in Chapter~\ref{ch:results} along these themes.
+
+Finally, the propositions are evaluated according to the rules defined in Section~\ref{sec:propositions}. A proposition is considered supported if the majority of the relevant studies, and especially the high-quality studies, report consistent findings; contradicted if the evidence predominantly points in the opposite direction; and inconclusive if the findings are mixed or the number of relevant studies is too small. Evidence from core studies in e-commerce and platform contexts is reported separately from the evidence of supporting studies, so that findings from other industries are not mistakenly presented as context-specific evidence.
+
+% ------------------------------------------------------------
+\section{Methodological Limitations}
+\label{sec:method-limitations}
+
+Several limitations of the methodology have to be acknowledged. First, the search was conducted in a single discovery service. Although the EBSCO Discovery Service covers many of the relevant databases and publishers, studies that are only indexed elsewhere may have been missed. The inclusion of 16 studies through other methods partly compensates for this, but it also shows that keyword-based searches do not capture all relevant studies, since authors use different terms for related concepts.
+
+Second, the screening and eligibility assessment were based on titles, abstracts, keywords and bibliographic information and were carried out by a single reviewer. Abstract-based decisions may misclassify some studies, and a single reviewer cannot provide the inter-rater reliability that a team of reviewers would offer. To reduce this risk, explicit criteria and reason codes were defined in advance and all decisions were documented in the screening log, so that they can be reviewed and replicated. The data extraction was checked through an independent, AI-assisted second coding and a full-text check of the accessible open-access studies (Section~\ref{sec:data-extraction}), but 80 of the 109 studies are still coded from their abstracts only.
+
+Third, the restriction to English-language, peer-reviewed journal articles excludes conference papers, books and studies in other languages, which may introduce a language and publication bias. Fourth, because journal rankings were not used as an inclusion criterion, the sample contains studies of very different quality, including studies from journals with less rigorous review processes. This increases the coverage of the evidence, but it requires that the quality assessment is applied consistently, and conclusions that rest mainly on low-quality studies must be interpreted with caution. Finally, the search covers publications up to October 2026, and a considerable share of the records are very recent. Of the 58 studies dated 2026, the publication records show that 32 appeared in a 2026 journal issue, 18 have been assigned to a volume without a print date yet, three were published online ahead of print, and for five the publication details could only be verified through the library record because no DOI record was available. The year of publication was therefore checked for every study, but the bibliographic details of some recent articles may still change. Research on AI is developing rapidly, so the evidence base will continue to change after the completion of this review.

@@ -1,0 +1,346 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Adapted for use at SRH Hochschule Heidelberg University by Ashish Chouhan (March 2020)
+% Updated to follow the SRH "Guidelines for Academic Writing, Scientific Papers & Theses" (February 2022)
+%
+% Note:
+% Make sure to edit document variables in the Thesis.cls file
+%
+% Compile with:  xelatex -> biber -> xelatex -> xelatex   (real Arial font)
+%           or:  pdflatex -> biber -> pdflatex -> pdflatex (Helvetica, an Arial look-alike)
+% On Overleaf: Menu -> Compiler -> XeLaTeX
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%                             -
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%                             -
+
+\documentclass[12pt, oneside]{Thesis} % 12 point, single-sided DIN A4 (guideline 4.1.4)
+
+%	FONT - Arial (guideline 4.1.4)
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage{helvet} % Helvetica: metric-compatible with Arial for pdfLaTeX
+  \renewcommand{\familydefault}{\sfdefault}
+\else
+  \usepackage{fontspec}
+  \setmainfont{Arial}
+  \setsansfont{Arial}
+\fi
+\usepackage[english]{babel} % Correct hyphenation for justified text
+\setlength{\emergencystretch}{2em} % Avoid lines running into the margin (e.g. around "e-commerce")
+
+\graphicspath{{Pictures/}{./}} % Specifies the directories where pictures are stored
+\usepackage[dvipsnames,svgnames,x11names,hyperref]{xcolor}
+\usepackage{csquotes}
+
+%	CITATIONS AND BIBLIOGRAPHY - Harvard style (guideline 4.2 and 4.3)
+%   In text:  \parencite[146]{kramer1995}  -> (Kramer, 1995, p. 146)
+%             \textcite[146]{kramer1995}   -> Kramer (1995, p. 146)
+%             \parencite[77]{smith1920}    -> (Smith & Wesson, 1920, p. 77)
+%             3+ authors                   -> (Smith et al., 1992, p. 674)
+%   Always give page numbers when citing (guideline 4.2.1).
+\usepackage[
+  backend=biber,
+  style=authoryear,
+  maxcitenames=2,       % 3+ authors -> "et al." in the text
+  mincitenames=1,
+  maxbibnames=99,       % every author listed in the bibliography
+  giveninits=true,      % first names shortened to initials
+  uniquename=false,
+  uniquelist=false,
+  dashed=false,
+  sorting=nydnt,        % alphabetical by author, same author: new to old
+  isbn=false,
+  doi=true,
+  url=true,
+  urldate=long
+]{biblatex}
+\addbibresource{bibliography.bib}
+
+\DeclareSortingTemplate{nydnt}{
+  \sort{\field{presort}}
+  \sort[final]{\field{sortkey}}
+  \sort{\field{sortname}\field{author}\field{editor}\field{translator}\field{sorttitle}\field{title}}
+  \sort[direction=descending]{\field{sortyear}\field{year}}
+  \sort{\field{sorttitle}\field{title}}
+}
+\DeclareNameAlias{sortname}{family-given}                       % Lawson, J.
+\DeclareDelimFormat{nameyeardelim}{\addcomma\space}             % (Kramer, 1995)
+\DeclareDelimFormat{finalnamedelim}{\addspace\&\space}          % Smith & Wesson
+\DeclareFieldFormat[article,inbook,incollection,inproceedings,thesis,online,report,unpublished]{title}{#1} % no quotation marks
+\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}\addperiod}     % journal title in italics, followed by a period
+\DeclareFieldFormat{doi}{\url{https://doi.org/#1}}              % DOI as a link, no "DOI:" label
+\DeclareFieldFormat[article]{number}{\mkbibparens{#1}}          % 37(11)
+\DeclareFieldFormat[article,periodical]{pages}{#1}              % pages without "pp."
+\renewbibmacro*{volume+number+eid}{%
+  \printfield{volume}%
+  \printfield{number}%
+  \setunit{\addcomma\space}%
+  \printfield{eid}}
+\renewbibmacro{in:}{\ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}}
+\DefineBibliographyStrings{english}{urlseen = {accessed on}}
+\setlength{\bibhang}{1.25cm}                                    % second line indented 1-1.5 cm (guideline 4.3.2)
+\AtBeginBibliography{\singlespacing\sloppy}                            % bibliography single-spaced (guideline 4.1.4)
+
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, fit, calc, backgrounds}
+\usepackage{graphics}
+\hypersetup{urlcolor=JungleGreen, colorlinks=true, citecolor=JungleGreen, linkcolor=black} % Colors hyperlinks in blue - change to black if annoying
+\usepackage{lscape}
+%\usepackage{draftwatermark}
+\usepackage{adjustbox}
+\usepackage{tabularx}
+\usepackage{float}
+%\SetWatermarkScale{2}
+%\SetWatermarkColor{red}
+\usepackage{listings}
+\usepackage{color}
+\definecolor{light-gray}{gray}{0.99}
+\lstset{ language=python,% the language of the code
+  numbers=left,% where to put the line-numbers
+  numberstyle=\tiny\color{gray},% the style that is used for the line-numbers
+  stepnumber=1,  % the step between two line-numbers. If it's 1, each line
+   % will be numbered
+  numbersep=5pt,  % how far the line-numbers are from the code
+  backgroundcolor=\color{light-gray},% choose the background color. You must add \usepackage{color}
+  showspaces=false,% show spaces adding particular underscores
+  showstringspaces=false, % underline spaces within strings
+  showtabs=false, % show tabs within strings adding particular underscores
+  frame=single, % adds a frame around the code
+  rulecolor=\color{JungleGreen},% if not set, the frame-color may be changed on line-breaks within not-black text (e.g. commens (green here))
+  tabsize=2,  % sets default tabsize to 2 spaces
+  captionpos=t, % sets the caption-position to top
+  breaklines=true, % sets automatic line breaking
+  breakatwhitespace=false, % sets if automatic breaks should only happen at whitespace
+  title=\lstname, % show the filename of files included with \lstinputlisting;
+ % also try caption instead of title
+  keywordstyle=\color{RedViolet}, % keyword style
+  commentstyle=\color{JungleGreen}, % comment style
+  stringstyle=\color{orange}, % string literal style
+  escapeinside={\%*}{*)}, % if you want to add a comment within your code
+  aboveskip=0.4\baselineskip,
+  belowskip=0.65\baselineskip,
+  belowcaptionskip=10pt,
+  morekeywords={*,...}% if you want to add more keywords to the set
+}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{navy}{rgb}{0,0,128}
+\definecolor{antiquewhite}{rgb}{0.98, 0.92, 0.84}
+\usepackage{longtable}
+\usepackage{siunitx}
+\sisetup{output-exponent-marker=\ensuremath{\mathrm{e}}}
+\usepackage{fancyhdr}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{caption}
+
+\setlength{\intextsep}{15pt}
+\setlength{\abovecaptionskip}{0.7\baselineskip}
+\setlength{\belowcaptionskip}{0pt}
+\captionsetup[table]{position=top, skip=6pt}   % table title above the table
+\captionsetup[figure]{position=bottom, skip=6pt} % figure title below the figure
+\setlist[itemize]{noitemsep, topsep=0pt}
+\setlist[enumerate]{noitemsep, topsep=0pt}
+
+% Source line under every figure/table, e.g. \source{Author's own work} (guideline 4.2.10)
+\newcommand{\source}[1]{\par\vspace{4pt}{\footnotesize Source: #1}\par}
+% Framed box shown until the real figure is inserted
+\newcommand{\figplaceholder}[1]{\fbox{\parbox[c][5cm][c]{0.9\textwidth}{\centering\itshape Placeholder -- #1}}}
+% Table row shown until the real content is filled in
+\newcommand{\tbc}[1]{\multicolumn{#1}{l}{\itshape To be completed}\\}
+
+% Long direct quotes (30+ words): indented 1 cm both sides, italics, single-spaced (guideline 4.2.3)
+\renewenvironment{quote}
+  {\begin{list}{}{\setlength{\leftmargin}{1cm}\setlength{\rightmargin}{1cm}}\item\relax\singlespacing\itshape}
+  {\end{list}}
+
+%======================================================
+
+\title{\ttitle}
+
+\begin{document}
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+\onehalfspacing % Line spacing of 1.5 (guideline 4.1.4)
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+\rhead{\thepage} % Page number in the upper right corner (guideline 4.1.4)
+\lhead{} % Clears the left side page header
+\renewcommand{\footrulewidth}{0.1pt}
+%\rfoot{Your_name}
+%\lfoot{}
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+
+% PDF meta-data
+\hypersetup{pdftitle={\ttitle}}
+\hypersetup{pdfsubject=\subjectname}
+\hypersetup{pdfauthor=\authornames}
+\hypersetup{pdfkeywords=\keywordnames}
+
+
+
+%    - Title Page    -
+% Logo in the upper third, title at the lower end of the top third,
+% degree and submission date in the bottom half; no page number (guideline 4.1.2).
+% Personal details (author, matriculation number, contact, supervisor) are
+% deliberately left out - add them back here if your submission needs them.
+\begin{titlepage}
+\thispagestyle{empty} % no page number
+\begin{minipage}{0.45\textwidth}
+    \vspace{-1cm}
+    \includegraphics[width=6cm]{SRH_Logo.png}
+\end{minipage}
+
+\vspace{0.3cm}
+\begin{center}
+{\Large \univname}\\[0.2cm]
+{\large \deptname}\\[1cm]
+{\Large Master's Thesis}\\[0.5cm]
+\HRule \\[0.4cm]
+{\LARGE \bfseries \ttitle}\\[0.4cm]
+\HRule \\[2cm]
+
+\large \textit{This thesis is submitted in fulfillment of the requirements
+ \\for the degree of \degreename}\\[0.3cm]
+\textit{to}\\[0.4cm]
+SRH University of Applied Sciences\\
+Ludwig-Guttmann-Strasse 6, 69123 Heidelberg\\[0.8cm]
+{\large Date of submission: \today}
+\end{center}
+\end{titlepage}
+
+
+%                             -
+%	ACKNOWLEDGEMENTS / FOREWORD (optional)
+%                             -
+
+\acknowledgements{{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+
+% Write your acknowledgements here (or delete this page).
+}
+
+
+\clearpage % Start a new page
+%                             -
+%	ABSTRACT PAGE
+%                             -
+\begin{abstract}{\vspace{1em}}
+% Write Abstract content here
+
+
+
+\textbf{Keywords:} \keywordnames
+\end{abstract}
+
+\clearpage % Start a new page
+
+%                             -
+%	TABLE OF CONTENTS, ABBREVIATIONS, FIGURES, TABLES
+%	Order: contents -> abbreviations -> figures -> tables (guideline 4.2.9 / 4.2.10)
+%                             -
+
+\pagestyle{fancy} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\tableofcontents % Write out the Table of Contents
+
+%                             -
+%	ABBREVIATIONS
+%                             -
+
+\lhead{\emph{List of Abbreviations}}
+
+\chapter*{List of Abbreviations} % Title for the abbreviations section
+\addcontentsline{toc}{chapter}{List of Abbreviations} % Add to table of contents
+
+\begin{longtable}{>{\raggedright\arraybackslash}p{2.4cm}>{\raggedright\arraybackslash}p{12.6cm}} % Two columns; long definitions wrap
+\textbf{AI} & Artificial Intelligence \\
+\textbf{B2B} & Business-to-Business \\
+\textbf{BDAC} & Big Data Analytics Capability \\
+\textbf{CRM} & Customer Relationship Management \\
+\textbf{DOI} & Digital Object Identifier \\
+\textbf{ESG} & Environmental, Social and Governance \\
+\textbf{GenAI} & Generative Artificial Intelligence \\
+\textbf{MNE} & Multinational Enterprise \\
+\textbf{PRISMA} & Preferred Reporting Items for Systematic Reviews and Meta-Analyses \\
+\textbf{RBV} & Resource-Based View \\
+\textbf{SME} & Small and Medium-sized Enterprise \\
+\textbf{VHB} & German Academic Association for Business Research (Verband der Hochschullehrer für Betriebswirtschaft) \\
+\textbf{VRIN} & Valuable, Rare, Inimitable, Non-substitutable \\
+\end{longtable}
+
+\clearpage
+
+\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+\listoffigures % Write out the List of Figures
+
+\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+\listoftables % Write out the List of Tables
+
+% \lhead{\emph{Listing of Sample Codes}}
+% \addtotoc{Listings}
+% \lstlistoflistings
+
+%                             -
+%	THESIS CONTENT - CHAPTERS (5 chapter structure, guideline chapter 2)
+%                             -
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{fancy} % Return the page headers back to the "fancy" style
+\fancyhead[L]{\leftmark}
+
+\input{Chapters/Chapter1} % Introduction                                  ~8 pages
+\input{Chapters/Chapter2} % Literature Review and Theoretical Framework     ~18 pages
+\input{Chapters/Chapter3} % Research Methodology                           ~10 pages
+\input{Chapters/Chapter4} % Results and Discussion                         ~20 pages
+\input{Chapters/Chapter5} % Conclusion and Recommendations                 ~7 pages
+% Chapters 1-5 together: 60-80 pages for a Master's thesis (guideline 6.5)
+
+%                             -
+%	BIBLIOGRAPHY - new page, Roman page numbers, in TOC without number
+%                             -
+
+\backmatter % Switch back to Roman page numbering (guideline 4.1.4)
+
+\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
+
+\printbibliography[heading=bibintoc, title={Bibliography}]
+
+%                             -
+%	APPENDICES - after the bibliography, Roman page numbers (guideline 4.4)
+%                             -
+
+\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
+\fancyhead[L]{\leftmark}
+
+\input{Appendices/AppendixA}
+\input{Appendices/AppendixB}
+%\input{Appendices/AppendixC}
+
+%                             -
+%	DECLARATION OF HONOR - very end, not in TOC (guideline 4.1.1)
+%                             -
+
+\lhead{}
+
+\Declaration{\vspace{1em}
+
+I hereby declare that I have written this thesis independently and without the use of any sources or aids other than those stated. All passages taken verbatim or in essence from published or unpublished works of others have been marked as such. This thesis has not been submitted in the same or a similar form to any other examination authority.
+
+\vspace{2cm}
+\textbf{Place, Date:}\\
+\rule[1em]{25em}{0.5pt}
+
+\textbf{Signed:}\\
+\rule[1em]{25em}{0.5pt} % This prints a line for the signature
+}
+
+\end{document}

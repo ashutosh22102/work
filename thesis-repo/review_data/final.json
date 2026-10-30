@@ -1228,9 +1228,9 @@
    "dynamism"
   ],
   "q7": "yes",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
+  "evidence": "Full text",
+  "ft_url": "https://eprints.lancs.ac.uk/id/eprint/232040/ (author accepted manuscript)",
+  "ft_note": "Section 8 'Limitations and Research Agenda' (AAM p. 22): cross-sectional design, Delhi NCR only",
   "q16": 6,
   "band": "high",
   "changed": {},
@@ -1410,7 +1410,7 @@
   "p1": "+",
   "p2": "+",
   "s": true,
-  "z": false,
+  "z": true,
   "t": true,
   "q1": 1,
   "q2": 1,
@@ -1421,10 +1421,10 @@
   "p3": [
    "platform"
   ],
-  "q7": "not_assessable",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://cspub-ijcisim.org/index.php/ijcisim/article/download/2978/2354 (published version)",
+  "ft_note": "No limitations section; only Section 6 'Future Research Directions' (p. 658)",
   "q16": 6,
   "band": "high",
   "changed": {
@@ -1443,6 +1443,14 @@
    "q5": [
     0,
     1
+   ],
+   "ft_z": [
+    false,
+    true
+   ],
+   "ft_q7": [
+    "not_assessable",
+    "no"
    ]
   },
   "note": ""
@@ -1486,8 +1494,8 @@
   "p1": "na",
   "p2": "+",
   "s": true,
-  "z": false,
-  "t": false,
+  "z": true,
+  "t": true,
   "q1": 1,
   "q2": 1,
   "q3": 1,
@@ -1499,12 +1507,21 @@
    "data_infra"
   ],
   "q7": "yes",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
+  "evidence": "Full text",
+  "ft_url": "https://doi.org/10.33168/JLISS.2026.1010 (published version, open access)",
+  "ft_note": "Discussion, p. 215: five limitations (cross-sectional, single country, single respondent, parsimonious model, no sustainability outcome)",
   "q16": 6,
   "band": "high",
-  "changed": {},
+  "changed": {
+   "ft_z": [
+    false,
+    true
+   ],
+   "ft_t": [
+    false,
+    true
+   ]
+  },
   "note": ""
  },
  "R096": {
@@ -1594,23 +1611,23 @@
   "p2": "+",
   "s": true,
   "z": true,
-  "t": false,
+  "t": true,
   "q1": 1,
   "q2": 1,
   "q3": 1,
   "q4": 1,
-  "q5": 0,
+  "q5": 1,
   "q6": 1,
   "p3": [
    "cognition",
    "dynamism"
   ],
-  "q7": "not_assessable",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
-  "q16": 5,
-  "band": "medium",
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://researchonline.ljmu.ac.uk/id/eprint/11948/ (author accepted manuscript)",
+  "ft_note": "Section 5.3 'Limitations and further research directions' (AAM p. 21): generalisability, cross-sectional design",
+  "q16": 6,
+  "band": "high",
   "changed": {
    "p2": [
     "na",
@@ -1627,6 +1644,18 @@
    "q5": [
     1,
     0
+   ],
+   "ft_t": [
+    false,
+    true
+   ],
+   "ft_q5": [
+    0,
+    1
+   ],
+   "ft_q7": [
+    "not_assessable",
+    "yes"
    ]
   },
   "note": ""
@@ -1993,20 +2022,20 @@
   "q1": 1,
   "q2": 1,
   "q3": 1,
-  "q4": 0,
-  "q5": 0,
+  "q4": 1,
+  "q5": 1,
   "q6": 1,
   "p3": [
    "dynamism",
    "imitability",
    "cognition"
   ],
-  "q7": "not_assessable",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
-  "q16": 4,
-  "band": "medium",
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://arxiv.org/pdf/2408.08811 (preprint v1, 16 Aug 2024; may differ from the Strategy Science version)",
+  "ft_note": "No limitations section for the empirical studies; only a robustness note on writing quality (p. 13) and limits of AI itself (Sec. 5.2)",
+  "q16": 6,
+  "band": "high",
   "changed": {
    "design": [
     "Conceptual",
@@ -2023,6 +2052,18 @@
    "q5": [
     1,
     0
+   ],
+   "ft_q4": [
+    0,
+    1
+   ],
+   "ft_q5": [
+    0,
+    1
+   ],
+   "ft_q7": [
+    "not_assessable",
+    "no"
    ]
   },
   "note": ""
@@ -3196,10 +3237,10 @@
   "p3": [
    "integration"
   ],
-  "q7": "not_assessable",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://www.businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/20585/IM_2024_03_Awad.pdf (published version, CC BY 4.0)",
+  "ft_note": "Discussion, p. 179: 'reliance on self-reported data and the focus on a single national context'",
   "q16": 5,
   "band": "medium",
   "changed": {
@@ -3210,6 +3251,10 @@
    "q5": [
     0,
     1
+   ],
+   "ft_q7": [
+    "not_assessable",
+    "yes"
    ]
   },
   "note": ""
@@ -3321,7 +3366,7 @@
   "p2": "+",
   "s": true,
   "z": true,
-  "t": false,
+  "t": true,
   "q1": 1,
   "q2": 1,
   "q3": 1,
@@ -3331,16 +3376,24 @@
   "p3": [
    "dynamism"
   ],
-  "q7": "not_assessable",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
+  "q7": "yes",
+  "evidence": "Full text",
+  "ft_url": "https://researchonline.ljmu.ac.uk/id/eprint/15291/ (author accepted manuscript)",
+  "ft_note": "Section 7.3 'Limitations and scope for future research' (AAM p. 32): small number of respondents, region-specific",
   "q16": 6,
   "band": "high",
   "changed": {
    "q2": [
     0,
     1
+   ],
+   "ft_t": [
+    false,
+    true
+   ],
+   "ft_q7": [
+    "not_assessable",
+    "yes"
    ]
   },
   "note": ""
@@ -3885,10 +3938,10 @@
    "platform",
    "trust_ethics"
   ],
-  "q7": "not_assessable",
-  "evidence": "Abstract",
-  "ft_url": "",
-  "ft_note": "",
+  "q7": "no",
+  "evidence": "Full text",
+  "ft_url": "https://wrap.warwick.ac.uk/134220/ (author accepted manuscript, AMR)",
+  "ft_note": "No limitations section; Discussion only offers future research (positive/negative data network effects, competitive advantage)",
   "q16": 6,
   "band": "high",
   "changed": {
@@ -3899,6 +3952,10 @@
    "q4": [
     0,
     1
+   ],
+   "ft_q7": [
+    "not_assessable",
+    "no"
    ]
   },
   "note": ""

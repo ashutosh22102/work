@@ -25,8 +25,9 @@
   \renewcommand{\familydefault}{\sfdefault}
 \else
   \usepackage{fontspec}
-  \setmainfont{Arial}
-  \setsansfont{Arial}
+  % Arial on Windows/macOS; Liberation Sans (metric-compatible with Arial) on Linux
+  \IfFontExistsTF{Arial}{\setmainfont{Arial}\setsansfont{Arial}}
+    {\setmainfont{Liberation Sans}\setsansfont{Liberation Sans}}
 \fi
 \usepackage[english]{babel} % Correct hyphenation for justified text
 \setlength{\emergencystretch}{2em} % Avoid lines running into the margin (e.g. around "e-commerce")

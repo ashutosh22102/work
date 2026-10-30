@@ -19,6 +19,6 @@ s = re.sub(r"\\pcs\{([^}]+)\}", lambda m: "\\parencites" + "".join(one(r) for r 
 s = re.sub(r"\\pc\{([^}]+)\}", lambda m: "\\parencite" + one(m.group(1)), s)
 s = re.sub(r"\\tc\{([^}]+)\}", lambda m: "\\textcite" + one(m.group(1)), s)
 left = re.findall(r"\\(?:pc|tc|pcs)\{", s)
-open(dst, "w", encoding="utf-8").write(s)
+open(dst, "w", encoding="utf-8", newline="\r\n").write(s)  # keep CRLF like the sources
 used = sorted(set(re.findall(r"\{((?:slr)?[A-Za-z]+\d{4}[a-z]*|slrR\d+)\}", s)))
 print("converted; unconverted:", len(left))
